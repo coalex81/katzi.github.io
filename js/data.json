@@ -149,7 +149,12 @@ data = [
         "lat": -25.669301,
         "lon": -48.4662102
     },
-    
+    {
+        "name": "Agrotop",
+        "url": "https://www.google.com/maps/place/PR-412,+1446+-+Majoranine,+Pontal+do+Paran%C3%A1+-+PR,+83255-000/@-25.6856936,-48.4700058,18z/data=!3m1!4b1!4m8!1m2!2m1!1seletro!3m4!1s0x94dbeb529bed8969:0xf2b33b561c35d1ba!8m2!3d-25.6856956!4d-48.4690833",
+        "lat": -25.6856936,
+        "lon": -48.4700058
+    },
     {
         "name": "Agropecuária Manchester",
         "url": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Manchester/@-26.2977077,-48.8478759,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb036603125e3:0xe04a54278d8dda8f!8m2!3d-26.2977125!4d-48.8456818",
