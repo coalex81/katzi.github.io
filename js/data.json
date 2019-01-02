@@ -48,6 +48,18 @@ data = [
         "lon": -49.2975866
     },
     {
+        "name": "Pet Shop Rhissi & Silva",
+        "url": "https://www.google.com/maps/place/Pet+Shop+Rissi+%26+Silva+Torres/@-25.458367,-49.2419747,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce51f43e24e81:0x238c2326f3501bca!8m2!3d-25.4583719!4d-49.2397806",
+        "lat": -25.458367,
+        "lon": -49.2419747
+    },
+    {
+        "name": "Mafa Pet",
+        "url": "https://www.google.com/maps/place/Mafa+Pet+-+Mafagafinhos+Pet+Shop/@-25.3978181,-49.2591291,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce69a42d698fd:0x74a84019df665f32!8m2!3d-25.397823!4d-49.256935",
+        "lat": -25.3978181,
+        "lon": -49.2591291
+    },
+    {
         "name": "AgroPetMaq",
         "url": "https://www.google.com/maps/place/AgroPetMaq/@-25.8102637,-48.5407906,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbee3d27638bd9:0xe4c0ac20da986d47!8m2!3d-25.8102685!4d-48.5385965",
         "lat": -25.8102637,
