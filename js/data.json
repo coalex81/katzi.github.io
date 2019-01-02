@@ -6,6 +6,12 @@ data = [
         "lon": -49.2288047
     },
     {
+        "name": "Clube do Bicho Pet Shop",
+        "url": "https://www.google.com/maps/place/Clube+do+Bicho+Pet+Shop/@-25.4573081,-49.2273401,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce53f0f8c18ad:0x63e2ed2c76792db2!8m2!3d-25.457313!4d-49.225146",
+        "lat": -25.4573081,
+        "lon": -49.2273401
+    },
+    {
         "name": "Pet Expert",
         "url": "https://www.google.com/maps/place/Pet+Expert/@-25.4535449,-49.3012816,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce397d1505aa5:0x69ee7e9b5610f59d!8m2!3d-25.4535498!4d-49.2990875",
         "lat": -25.4535449,
@@ -16,6 +22,12 @@ data = [
         "url": "https://www.google.com/maps/place/Maison+Chien/@-25.4234691,-49.2451071,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce44a09c8d3c1:0x29e580446e398c78!8m2!3d-25.423474!4d-49.242913",
         "lat": -25.4234691,
         "lon": -49.2451071
+    },
+    {
+        "name": "Agropet Colônia",
+        "url": "https://www.google.com/maps/place/Agropet+Col%C3%B4nia/@-25.3983789,-49.3448722,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce1b5aba8f8bd:0xcc31e5b899068386!8m2!3d-25.3983838!4d-49.3426781",
+        "lat": -25.3983789,
+        "lon": -49.3448722
     },
     {
         "name": "AgroPetMaq",
