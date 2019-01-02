@@ -9,14 +9,13 @@
     <script>
 function myMap() {
     var myLatLng = new google.maps.LatLng(-26.071484,-48.658029);
+    var regularSize = new google.maps.Size(20,32);
+    var smallSize = new google.maps.Size(10,16);
 
-    var mapProp= {
-          center:myLatLng,
-            zoom:8,
-    };
+    var mapProp= {center:myLatLng,zoom:8};
     var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
 
-    var marker = new google.maps.Marker({position:myLatLng});
+    var marker = new google.maps.Marker({position:myLatLng,size:smallSize});
 
     marker.setMap(map);
 }
