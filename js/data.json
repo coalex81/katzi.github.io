@@ -72,6 +72,12 @@ data = [
         "lon": -49.2591291
     },
     {
+        "name": "Nossos Bichos",
+        "url": "https://www.google.com/maps/place/Cl%C3%ADnica+Veterin%C3%A1ria+Nossos+Bichos/@-25.4683377,-49.2996679,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce37181154e93:0x6a1728ea52982ffb!8m2!3d-25.4683426!4d-49.2974738",
+        "lat": -25.4683377,
+        "lon": -49.2996679
+    },
+    {
         "name": "Universo Pet",
         "url": "https://www.google.com/maps/place/Universo+Pet/@-25.9208335,-48.5802678,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbfbd5ee65fd35:0xa645c4ca78194e80!8m2!3d-25.9208383!4d-48.5780737",
         "lat": -25.894052,
@@ -101,6 +107,49 @@ data = [
         "lat": -25.8102637,
         "lon": -48.5407906
     },
+    {
+        "name": "Miados e Latidos Pet Shop",
+        "url": "https://www.google.com/maps/place/Miados+e+Latidos+Pet+Shop/@-25.8180464,-48.5412285,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbee3628a8ca95:0x3d81e6939fdec71e!8m2!3d-25.8180512!4d-48.5390344",
+        "lat": -25.8180464,
+        "lon": -48.5412285
+    },
+    {
+        "name": "Agro Comercial Morretes",
+        "url": "https://www.google.com/maps/place/Agro+Comercial+Morretes/@-25.4808716,-48.8326398,17z/data=!3m1!4b1!4m5!3m4!1s0x94dc87726ddcfe2b:0xd05d5ac132fe4608!8m2!3d-25.4808765!4d-48.8304457",
+        "lat": -25.4808716,
+        "lon": -48.8326398
+    },
+    {
+        "name": "Agro Aviário Praia de Leste",
+        "url": "https://www.google.com/maps/place/Aviario+Praia+De+Leste/@-25.6979904,-48.4782951,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbeb59b28d1c8d:0xdc2abc15681e5ba2!8m2!3d-25.6979953!4d-48.476101",
+        "lat": -25.6979904,
+        "lon": -48.4782951
+    },
+    {
+        "name": "BichoZen Pet Store",
+        "url": "https://www.google.com/maps/place/BichoZen+Pet+Store/@-25.6840975,-48.4704509,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbeb4d522d16a3:0xe3d531e0d681fc9d!8m2!3d-25.6841024!4d-48.4682568",
+        "lat": -25.6840975,
+        "lon": -48.4704509
+    },
+    {
+        "name": "Universo Pet",
+        "url": "https://www.google.com/maps/place/UniversoPet/@-25.6178209,-48.4209494,17z/data=!3m1!4b1!4m5!3m4!1s0x94db9597fd8daaad:0xc801d5ea3ad04923!8m2!3d-25.6178258!4d-48.4187553",
+        "lat": -25.6178209,
+        "lon": -48.4209494
+    },
+    {
+        "name": "Boutique dos Cachorros",
+        "url": "https://www.google.com/maps/place/25%C2%B039'19.0%22S+48%C2%B027'01.3%22W/@-25.6552658,-48.4509155,19z/data=!3m1!4b1!4m9!1m2!2m1!1spet+shop!3m5!1s0x0:0x0!7e2!8m2!3d-25.6552665!4d-48.4503674",
+        "lat": -25.6552658,
+        "lon": -48.4509155
+    },
+    {
+        "name": "Amigão Pet Shop",
+        "url": "https://www.google.com/maps/place/Amigao+pet+shop/@-25.669301,-48.4662102,15z/data=!4m8!1m2!2m1!1spet+shop+amig%C3%A3o!3m4!1s0x0:0x443be9f40d3520f6!8m2!3d-25.6739047!4d-48.460629",
+        "lat": -25.669301,
+        "lon": -48.4662102
+    },
+    
     {
         "name": "Agropecuária Manchester",
         "url": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Manchester/@-26.2977077,-48.8478759,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb036603125e3:0xe04a54278d8dda8f!8m2!3d-26.2977125!4d-48.8456818",
