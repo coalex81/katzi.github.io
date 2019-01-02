@@ -9,10 +9,20 @@
     <script>
 function myMap() {
     var locations = [
-      ['Rhassil', -25.392244, -49.226591, 3],
+      ['<a href="#">Rhassil</a>', -25.392244, -49.226591, 3],
       ['AgroPetMaq', -25.809979, -48.538554, 2],
       ['Agropecuária Manchester', -26.297533, -48.845703, 1]
     ];
+
+    /*
+    var pinIcon = new google.maps.MarkerImage(
+        "http://chart.apis.google.com/chart?chst=d_map_pin_letter&chld=%E2%80%A2|FFFF00",
+        null, // size is determined at runtime
+        null, // origin is 0,0
+        null, // anchor is bottom center of the scaled image
+        new google.maps.Size(42, 68)
+    );
+    */
 
     var mapCenter = new google.maps.LatLng(-26.071484,-48.658029);
     var mapProp= {center:mapCenter,zoom:8};
