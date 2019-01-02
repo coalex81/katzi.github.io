@@ -8,29 +8,32 @@
 <!-- -25.895168,-48.926999 -->
     <script>
 function myMap() {
-    var myLatLng = new google.maps.LatLng(-26.071484,-48.658029);
-    var regularSize = new google.maps.Size(20,32);
-    var smallSize = new google.maps.Size(10,16);
+    var locations = [
+      ['Rhassil', -25.392244, -49.226591, 3],
+      ['AgroPetMaq', -25.809979, -48.538554, 2],
+      ['Agropecuária Manchester', -26.297533, -48.845703, 1]
+    ];
 
-    var mapProp= {center:myLatLng,zoom:8};
+    var mapCenter = new google.maps.LatLng(-26.071484,-48.658029);
+    var mapProp= {center:mapCenter,zoom:8};
     var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
+    
+    var infowindow = new google.maps.InfoWindow();
 
-    var icon = {
-        url: "../res/sit_marron.png", // url
-        scaledSize: smallSize, // scaled size
-        origin: new google.maps.Point(0,0), // origin
-        anchor: new google.maps.Point(0, 0) // anchor
-    };
+    var marker, i;
 
-    marker = new google.maps.Marker({
-        position: myLatLng,
-        map: map,
-        icon: icon
-    });
-
-    //var marker = new google.maps.Marker({position:myLatLng,size:smallSize});
-
-    //marker.setMap(map);
+    for (i = 0; i < locations.length; i++) {
+        marker = new google.maps.Marker({
+            position: new google.maps.LatLng(locations[i][1], locations[i][2]),
+            map: map
+        });
+        google.maps.event.addListener(marker, 'click', (function(marker, i) {
+            return function() {
+                infowindow.setContent(locations[i][0]);
+                infowindow.open(map, marker);
+            }
+        })(marker, i));
+    }
 }
     </script>
 
