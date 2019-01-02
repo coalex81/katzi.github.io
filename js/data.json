@@ -12,6 +12,12 @@ data = [
         "lon": -49.2273401
     },
     {
+        "name": "Empório da Matilha",
+        "url": "https://www.google.com/maps/place/Emp%C3%B3rio+da+Matilha/@-25.4735611,-49.2193291,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcfab37504efb3:0x3b03cc7508ca98bd!8m2!3d-25.473566!4d-49.217135",
+        "lat": -25.4735611,
+        "lon": -49.2193291
+    },
+    {
         "name": "Pet Expert",
         "url": "https://www.google.com/maps/place/Pet+Expert/@-25.4535449,-49.3012816,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce397d1505aa5:0x69ee7e9b5610f59d!8m2!3d-25.4535498!4d-49.2990875",
         "lat": -25.4535449,
@@ -28,6 +34,18 @@ data = [
         "url": "https://www.google.com/maps/place/Agropet+Col%C3%B4nia/@-25.3983789,-49.3448722,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce1b5aba8f8bd:0xcc31e5b899068386!8m2!3d-25.3983838!4d-49.3426781",
         "lat": -25.3983789,
         "lon": -49.3448722
+    },
+    {
+        "name": "Pet Show",
+        "url": "https://www.google.com/maps/place/Pet+Show/@-25.4541197,-49.2908525,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce381982bf743:0xa5b0197f0183fcc7!8m2!3d-25.4541246!4d-49.2886584",
+        "lat": -25.4541197,
+        "lon": -49.2908525
+    },
+    {
+        "name": "Pet Show",
+        "url": "https://www.google.com/maps/place/Pet+Show/@-25.4385518,-49.2975866,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce392ae7dd979:0xd00dde1309407901!8m2!3d-25.4385567!4d-49.2953925",
+        "lat": -25.4385518,
+        "lon": -49.2975866
     },
     {
         "name": "AgroPetMaq",
