@@ -36,6 +36,12 @@ data = [
         "lon": -49.3448722
     },
     {
+        "name": "Outpets",
+        "url": "https://www.google.com/maps/place/Outpets/@-25.4393927,-49.2367694,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce507c1752621:0xe6ede08c910735f7!8m2!3d-25.4393976!4d-49.2345753",
+        "lat": -25.4393927,
+        "lon": -49.2367694
+    },
+    {
         "name": "Pet Show",
         "url": "https://www.google.com/maps/place/Pet+Show/@-25.4541197,-49.2908525,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce381982bf743:0xa5b0197f0183fcc7!8m2!3d-25.4541246!4d-49.2886584",
         "lat": -25.4541197,
@@ -46,6 +52,12 @@ data = [
         "url": "https://www.google.com/maps/place/Pet+Show/@-25.4385518,-49.2975866,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce392ae7dd979:0xd00dde1309407901!8m2!3d-25.4385567!4d-49.2953925",
         "lat": -25.4385518,
         "lon": -49.2975866
+    },
+    {
+        "name": "Coçadinhas Pet Shop",
+        "url": "https://www.google.com/maps/place/Co%C3%A7adinhas+Pet+Shop/@-25.4204754,-49.2409562,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce5b5fb597e35:0x7b30660438237de2!8m2!3d-25.4204803!4d-49.2387621",
+        "lat": -25.4204754,
+        "lon": -49.2409562
     },
     {
         "name": "Pet Shop Rhissi & Silva",
