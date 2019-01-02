@@ -1,5 +1,10 @@
 <!DOCTYPE html>
 <html>
+
+<head>
+    <script type="text/javascript" src="js/data.json"></script>
+</head>
+
 <body>
 
     <center><h1>Pontos de Venda</h1></center>
@@ -31,7 +36,23 @@ function myMap() {
     var infowindow = new google.maps.InfoWindow();
 
     var marker, i;
-
+    for (i = 0; i < data.length; i++) {
+        marker = new google.maps.Marker({
+            position: new google.maps.LatLng(data[i].lat, data[i].lon),
+            map: map
+        });
+        google.maps.event.addListener(marker, 'click', (function(marker, i) {
+            return function() {
+                infowindow.setContent(
+                    '<a href="' + data[i].url + '">'
+                        + data[i].name
+                    + '</a>'
+                );
+                infowindow.open(map, marker);
+            }
+        })(marker, i));
+    }
+/*
     for (i = 0; i < locations.length; i++) {
         marker = new google.maps.Marker({
             position: new google.maps.LatLng(locations[i][1], locations[i][2]),
@@ -44,6 +65,7 @@ function myMap() {
             }
         })(marker, i));
     }
+*/
 }
     </script>
 
