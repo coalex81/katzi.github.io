@@ -15,9 +15,22 @@ function myMap() {
     var mapProp= {center:myLatLng,zoom:8};
     var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
 
-    var marker = new google.maps.Marker({position:myLatLng,size:smallSize});
+    var icon = {
+        url: "../res/sit_marron.png", // url
+        scaledSize: smallSize, // scaled size
+        origin: new google.maps.Point(0,0), // origin
+        anchor: new google.maps.Point(0, 0) // anchor
+    };
 
-    marker.setMap(map);
+    marker = new google.maps.Marker({
+        position: myLatLng,
+        map: map,
+        icon: icon
+    });
+
+    //var marker = new google.maps.Marker({position:myLatLng,size:smallSize});
+
+    //marker.setMap(map);
 }
     </script>
 
