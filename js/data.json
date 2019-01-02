@@ -72,6 +72,30 @@ data = [
         "lon": -49.2591291
     },
     {
+        "name": "Universo Pet",
+        "url": "https://www.google.com/maps/place/Universo+Pet/@-25.9208335,-48.5802678,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbfbd5ee65fd35:0xa645c4ca78194e80!8m2!3d-25.9208383!4d-48.5780737",
+        "lat": -25.894052,
+        "lon": -48.565130
+    },
+    {
+        "name": "Pet Shop Mundo Animal",
+        "url": "https://www.google.com/maps/place/Avi%C3%A1rio+Pet+Shop+Guaratuba+Mundo+Animal/@-25.9001806,-48.567962,19z/data=!4m5!3m4!1s0x94dbfbe2a21818bd:0x6b8760a7b9d23e93!8m2!3d-25.9003538!4d-48.567978",
+        "lat": -25.9001806,
+        "lon": -48.567962
+    },
+    {
+        "name": "Centro Veterinário Dr Puppy",
+        "url": "https://www.google.com/maps/place/Centro+Veterin%C3%A1rio+Dr+Puppy/@-25.8789354,-48.5768403,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbfaa1249f1e11:0xe2db3a8028556e8f!8m2!3d-25.8789402!4d-48.5746462",
+        "lat": -25.8789354,
+        "lon": -48.5768403
+    },
+    {
+        "name": "Aviário & Pet Shop Faro Fino",
+        "url": "https://www.google.com/maps/place/Aviario+%26+Pet+Shop+Faro+Fino/@-25.8751149,-48.5785866,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbf00a5f4aad07:0x5d70514b55ca9793!8m2!3d-25.8751197!4d-48.5763925",
+        "lat": -25.8751149,
+        "lon": -48.5785866
+    },
+    {
         "name": "AgroPetMaq",
         "url": "https://www.google.com/maps/place/AgroPetMaq/@-25.8102637,-48.5407906,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbee3d27638bd9:0xe4c0ac20da986d47!8m2!3d-25.8102685!4d-48.5385965",
         "lat": -25.8102637,
