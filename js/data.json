@@ -227,4 +227,10 @@ data = [
         "lat": -26.9985134,
         "lon": -48.645761
     },
+    {
+        "name": "Fofocão Pet Shop",
+        "url": "https://www.google.com/maps/place/FOFOC%C3%83O+Pet+Shop-+Banho+E+Tosa/@-26.243194,-48.6259711,17z/data=!3m1!4b1!4m5!3m4!1s0x94d94e8a1d98703d:0x71cc7bfd6ea2e91c!8m2!3d-26.2431988!4d-48.623777",
+        "lat": -26.243194,
+        "lon": -48.6259711
+    },
 ]
