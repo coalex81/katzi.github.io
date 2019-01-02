@@ -185,4 +185,28 @@ data = [
         "lat": -26.3025301,
         "lon": -48.8590449
     },
+    {
+        "name": "Pet Shop Neves",
+        "url": "https://www.google.com/maps/place/Pet+Shop+Neves/@-26.2931322,-48.8632191,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb10058f38723:0xd4965841e8b8b95f!8m2!3d-26.293137!4d-48.861025",
+        "lat": -26.2931322,
+        "lon": -48.8632191
+    },
+    {
+        "name": "Agropet Rodrigues",
+        "url": "https://www.google.com/maps/place/Agro+Pet+Rodrigues/@-26.2473275,-48.8128145,17z/data=!3m1!4b1!4m5!3m4!1s0x94deae6d726fa457:0x34b86c444126ca7!8m2!3d-26.2473323!4d-48.8106204",
+        "lat": -26.2473275,
+        "lon": -48.8128145
+    },
+    {
+        "name": "Agropet Rodrigues",
+        "url": "https://www.google.com/maps/place/C%C3%A3otinho+Pet+Shop/@-26.2849582,-48.8735442,17z/data=!3m1!4b1!4m5!3m4!1s0x94deaffc9fcea90b:0x887d2be455a75a32!8m2!3d-26.284963!4d-48.8713501",
+        "lat": -26.2849582,
+        "lon": -48.8735442
+    },
+    {
+        "name": "Agropecuária Cão Fiel",
+        "url": "https://www.google.com/maps/place/Agropecu%C3%A1ria+C%C3%A3o+Fiel/@-26.3210419,-48.8183995,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb16db0a3bdd3:0xe546e0398f17eced!8m2!3d-26.3210467!4d-48.8162054",
+        "lat": -26.3210419,
+        "lon": -48.8183995
+    },
 ]
