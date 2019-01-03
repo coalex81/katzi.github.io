@@ -103,9 +103,9 @@ data = [
     },
     {
         "name": "Amis Vet",
-        "url": "https://www.google.com/maps/place/AMIS+VET+CLINICA+VETERINARIA/@-25.8765538,-48.5782283,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbfa9e13ce97a5:0x7ba489fd59beb8d5!8m2!3d-25.8765586!4d-48.5760342",
-        "lat": -25.8765538,
-        "lon": -48.5782283
+        "url": "https://www.google.com/maps/place/AMIS+VET+CLINICA+VETERINARIA/@-25.8763451,-48.5760951,17z/data=!4m12!1m6!3m5!1s0x94dbfa9e13ce97a5:0x7ba489fd59beb8d5!2sAMIS+VET+CLINICA+VETERINARIA!8m2!3d-25.8765586!4d-48.5760342!3m4!1s0x94dbfa9e13ce97a5:0x7ba489fd59beb8d5!8m2!3d-25.8765586!4d-48.5760342",
+        "lat": -25.8763451,
+        "lon": -48.5760951
     },
     {
         "name": "AgroPetMaq",
