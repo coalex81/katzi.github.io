@@ -91,9 +91,9 @@ data = [
     },
     {
         "name": "Centro Veterinário Dr Puppy",
-        "url": "https://www.google.com/maps/place/Centro+Veterin%C3%A1rio+Dr+Puppy/@-25.8786321,-48.5754941,17.75z/data=!4m5!3m4!1s0x94dbfaa1249f1e11:0xe2db3a8028556e8f!8m2!3d-25.8789402!4d-48.5746462",
-        "lat": -25.8786321,
-        "lon": -48.5754941
+        "url": "https://www.google.com/maps/place/Cl%C3%ADnica+Veterin%C3%A1ria+Doutor+Puppy/@-25.878784,-48.575372,19z/data=!4m5!3m4!1s0x0:0xdf6eedd80b619a5e!8m2!3d-25.8787552!4d-48.574762?hl=pt-BR",
+        "lat": -25.878784,
+        "lon": -48.575372
     },
     {
         "name": "Aviário & Pet Shop Faro Fino",
