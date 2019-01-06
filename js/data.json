@@ -151,9 +151,9 @@ data = [
     },
     {
         "name": "Amigão Pet Shop",
-        "url": "https://www.google.com/maps/place/Amigao+pet+shop/@-25.669301,-48.4662102,15z/data=!4m8!1m2!2m1!1spet+shop+amig%C3%A3o!3m4!1s0x0:0x443be9f40d3520f6!8m2!3d-25.6739047!4d-48.460629",
-        "lat": -25.669301,
-        "lon": -48.4662102
+        "url": "https://www.google.com/maps/place/Amigao+pet+shop/@-25.6737906,-48.4608079,18z/data=!4m8!1m2!2m1!1spet+shop+amig%C3%A3o!3m4!1s0x0:0x443be9f40d3520f6!8m2!3d-25.6739047!4d-48.460629",
+        "lat": -25.6737906,
+        "lon": -48.4608079
     },
     {
         "name": "Agrotop",
