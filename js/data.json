@@ -128,8 +128,8 @@ data = [
     {
         "name": "Agro Aviário Praia de Leste",
         "url": "https://www.google.com/maps/place/Aviario+Praia+De+Leste/@-25.6979904,-48.4782951,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbeb59b28d1c8d:0xdc2abc15681e5ba2!8m2!3d-25.6979953!4d-48.476101",
-        "lat": -25.697768,
-        "lon": -48.476106
+        "lat": -25.697944,
+        "lon": -48.476097
     },
     {
         "name": "BichoZen Pet Store",
