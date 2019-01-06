@@ -224,20 +224,20 @@ data = [
     {
         "name": "Dona Pet",
         "url": "https://www.google.com/maps/place/Dona+Pet/@-26.9857241,-48.6361296,17z/data=!3m1!4b1!4m5!3m4!1s0x94d8b6017d4b5999:0x2ec5dbd08f580c18!8m2!3d-26.9857289!4d-48.6339355",
-        "lat": -26.9857241,
-        "lon": -48.6361296
+        "lat": -26.985724,
+        "lon": -48.633932
     },
     {
         "name": "Ponto Pet",
         "url": "https://www.google.com/maps/place/Ponto+Pet/@-26.9879977,-48.6380582,17z/data=!3m1!4b1!4m5!3m4!1s0x94d8b6012dc79f4d:0x7dd3143413b76b0c!8m2!3d-26.9880025!4d-48.6358641",
-        "lat": -26.9879977,
-        "lon": -48.6380582
+        "lat": -26.987999,
+        "lon": -48.635864
     },
     {
         "name": "Dog Shop",
         "url": "https://www.google.com/maps/place/Dog+Shop/@-26.9985134,-48.645761,16.54z/data=!4m8!1m2!2m1!1sdog+shop+!3m4!1s0x94d8b5e4f213cfed:0xe66b27fe217b552c!8m2!3d-26.9978286!4d-48.6450165",
-        "lat": -26.9985134,
-        "lon": -48.645761
+        "lat": -26.997825,
+        "lon": -48.645012
     },
     {
         "name": "Fofocão Pet Shop",
