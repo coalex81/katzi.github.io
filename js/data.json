@@ -122,8 +122,8 @@ data = [
     {
         "name": "Agro Comercial Morretes",
         "url": "https://www.google.com/maps/place/Agro+Comercial+Morretes/@-25.4808716,-48.8326398,17z/data=!3m1!4b1!4m5!3m4!1s0x94dc87726ddcfe2b:0xd05d5ac132fe4608!8m2!3d-25.4808765!4d-48.8304457",
-        "lat": -25.4808716,
-        "lon": -48.8326398
+        "lat": -25.480876,
+        "lon": -48.830446
     },
     {
         "name": "Agro Aviário Praia de Leste",
