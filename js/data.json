@@ -134,14 +134,14 @@ data = [
     {
         "name": "BichoZen Pet Store",
         "url": "https://www.google.com/maps/place/BichoZen+Pet+Store/@-25.6841024,-48.4704455,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbeb4d522d16a3:0xe3d531e0d681fc9d!8m2!3d-25.6841024!4d-48.4682568",
-        "lat": -25.6841024,
-        "lon": -48.4704455
+        "lat": -25.684085,
+        "lon": -48.468260
     },
     {
         "name": "Universo Pet",
         "url": "https://www.google.com/maps/place/UniversoPet/@-25.6178258,-48.420944,17z/data=!3m1!4b1!4m5!3m4!1s0x94db9597fd8daaad:0xc801d5ea3ad04923!8m2!3d-25.6178258!4d-48.4187553",
-        "lat": -25.6178258,
-        "lon": -48.420944
+        "lat": -25.617839,
+        "lon": -48.418735
     },
     {
         "name": "Boutique dos Cachorros",
@@ -152,14 +152,14 @@ data = [
     {
         "name": "Amigão Pet Shop",
         "url": "https://www.google.com/maps/place/Amigao+pet+shop/@-25.6737906,-48.4608079,18z/data=!4m8!1m2!2m1!1spet+shop+amig%C3%A3o!3m4!1s0x0:0x443be9f40d3520f6!8m2!3d-25.6739047!4d-48.460629",
-        "lat": -25.6737906,
-        "lon": -48.4608079
+        "lat": -25.673858,
+        "lon": -48.460626
     },
     {
         "name": "Agrotop",
         "url": "https://www.google.com/maps/place/PR-412,+1446+-+Majoranine,+Pontal+do+Paran%C3%A1+-+PR,+83255-000/@-25.6856932,-48.4701803,18z/data=!3m1!4b1!4m8!1m2!2m1!1seletro!3m4!1s0x94dbeb529bed8969:0xf2b33b561c35d1ba!8m2!3d-25.6856956!4d-48.4690833",
-        "lat": -25.6856932,
-        "lon": -48.4701803
+        "lat": -25.685658,
+        "lon": -48.469086
     },
     {
         "name": "Aviário Unicão",
