@@ -2,80 +2,80 @@ data = [
     {
         "name": "Rhassil",
         "url": "https://www.google.com/maps/place/Rhassil/@-25.3924188,-49.2288047,17z/data=!4m12!1m6!3m5!1s0x94dce67468208523:0xc0f7e8ce56ca6165!2sRhassil!8m2!3d-25.3924237!4d-49.2266106!3m4!1s0x94dce67468208523:0xc0f7e8ce56ca6165!8m2!3d-25.3924237!4d-49.2266106",
-        "lat": -25.3924188,
-        "lon": -49.2288047
+        "lat": -25.392421,
+        "lon": -49.226611
     },
     {
         "name": "Clube do Bicho Pet Shop",
         "url": "https://www.google.com/maps/place/Clube+do+Bicho+Pet+Shop/@-25.4573081,-49.2273401,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce53f0f8c18ad:0x63e2ed2c76792db2!8m2!3d-25.457313!4d-49.225146",
-        "lat": -25.4573081,
-        "lon": -49.2273401
+        "lat": -25.457311,
+        "lon": -49.225146
     },
     {
         "name": "Empório da Matilha",
         "url": "https://www.google.com/maps/place/Emp%C3%B3rio+da+Matilha/@-25.4735611,-49.2193291,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcfab37504efb3:0x3b03cc7508ca98bd!8m2!3d-25.473566!4d-49.217135",
-        "lat": -25.4735611,
-        "lon": -49.2193291
+        "lat": -25.473564,
+        "lon": -49.217132
     },
     {
         "name": "Pet Expert",
         "url": "https://www.google.com/maps/place/Pet+Expert/@-25.4535449,-49.3012816,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce397d1505aa5:0x69ee7e9b5610f59d!8m2!3d-25.4535498!4d-49.2990875",
-        "lat": -25.4535449,
-        "lon": -49.3012816
+        "lat": -25.453548,
+        "lon": -49.299091
     },
     {
         "name": "Maison Chien",
         "url": "https://www.google.com/maps/place/Maison+Chien/@-25.4234691,-49.2451071,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce44a09c8d3c1:0x29e580446e398c78!8m2!3d-25.423474!4d-49.242913",
-        "lat": -25.4234691,
-        "lon": -49.2451071
+        "lat": -25.423468,
+        "lon": -49.242911
     },
     {
         "name": "Agropet Colônia",
         "url": "https://www.google.com/maps/place/Agropet+Col%C3%B4nia/@-25.3983789,-49.3448722,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce1b5aba8f8bd:0xcc31e5b899068386!8m2!3d-25.3983838!4d-49.3426781",
-        "lat": -25.3983789,
-        "lon": -49.3448722
+        "lat": -25.398382,
+        "lon": -49.342678
     },
     {
         "name": "Outpets",
         "url": "https://www.google.com/maps/place/Outpets/@-25.4393927,-49.2367694,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce507c1752621:0xe6ede08c910735f7!8m2!3d-25.4393976!4d-49.2345753",
-        "lat": -25.4393927,
-        "lon": -49.2367694
+        "lat": -25.439396,
+        "lon": -49.234575
     },
     {
         "name": "Pet Show",
         "url": "https://www.google.com/maps/place/Pet+Show/@-25.4541197,-49.2908525,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce381982bf743:0xa5b0197f0183fcc7!8m2!3d-25.4541246!4d-49.2886584",
-        "lat": -25.4541197,
-        "lon": -49.2908525
+        "lat": -25.454117,
+        "lon": -49.288658
     },
     {
         "name": "Pet Show",
         "url": "https://www.google.com/maps/place/Pet+Show/@-25.4385518,-49.2975866,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce392ae7dd979:0xd00dde1309407901!8m2!3d-25.4385567!4d-49.2953925",
-        "lat": -25.4385518,
-        "lon": -49.2975866
+        "lat": -25.438547,
+        "lon": -49.295395
     },
     {
         "name": "Coçadinhas Pet Shop",
         "url": "https://www.google.com/maps/place/Co%C3%A7adinhas+Pet+Shop/@-25.4204754,-49.2409562,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce5b5fb597e35:0x7b30660438237de2!8m2!3d-25.4204803!4d-49.2387621",
-        "lat": -25.4204754,
-        "lon": -49.2409562
+        "lat": -25.420477,
+        "lon": -49.238761
     },
     {
-        "name": "Pet Shop Rhissi & Silva",
+        "name": "Pet Shop Rhissi & Silva Torres",
         "url": "https://www.google.com/maps/place/Pet+Shop+Rissi+%26+Silva+Torres/@-25.458367,-49.2419747,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce51f43e24e81:0x238c2326f3501bca!8m2!3d-25.4583719!4d-49.2397806",
-        "lat": -25.458367,
-        "lon": -49.2419747
+        "lat": -25.458369,
+        "lon": -49.239781
     },
     {
         "name": "Mafa Pet",
         "url": "https://www.google.com/maps/place/Mafa+Pet+-+Mafagafinhos+Pet+Shop/@-25.3978181,-49.2591291,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce69a42d698fd:0x74a84019df665f32!8m2!3d-25.397823!4d-49.256935",
-        "lat": -25.3978181,
-        "lon": -49.2591291
+        "lat": -25.397822,
+        "lon": -49.256934
     },
     {
         "name": "Nossos Bichos",
         "url": "https://www.google.com/maps/place/Cl%C3%ADnica+Veterin%C3%A1ria+Nossos+Bichos/@-25.4683377,-49.2996679,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce37181154e93:0x6a1728ea52982ffb!8m2!3d-25.4683426!4d-49.2974738",
-        "lat": -25.4683377,
-        "lon": -49.2996679
+        "lat": -25.468331,
+        "lon": -49.297469
     },
     {
         "name": "Universo Pet",
