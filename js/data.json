@@ -110,14 +110,14 @@ data = [
     {
         "name": "AgroPetMaq",
         "url": "https://www.google.com/maps/place/AgroPetMaq/@-25.8102637,-48.5407906,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbee3d27638bd9:0xe4c0ac20da986d47!8m2!3d-25.8102685!4d-48.5385965",
-        "lat": -25.8102637,
-        "lon": -48.5407906
+        "lat": -25.810267,
+        "lon": -48.538596
     },
     {
         "name": "Miados e Latidos Pet Shop",
         "url": "https://www.google.com/maps/place/Miados+e+Latidos+Pet+Shop/@-25.8180464,-48.5412285,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbee3628a8ca95:0x3d81e6939fdec71e!8m2!3d-25.8180512!4d-48.5390344",
-        "lat": -25.8180464,
-        "lon": -48.5412285
+        "lat": -25.818048,
+        "lon": -48.539033
     },
     {
         "name": "Agro Comercial Morretes",
