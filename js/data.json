@@ -164,8 +164,8 @@ data = [
     {
         "name": "Aviário Unicão",
         "url": "https://www.google.com/maps/place/Aviario+Unicao+Banho+E+Tosa+Racoes/@-25.5815171,-48.3620996,19.04z/data=!4m5!3m4!1s0x94dbbe62ffe62a0b:0xcd6715322487bbbf!8m2!3d-25.5813216!4d-48.3613632",
-        "lat": -25.5815171,
-        "lon": -48.3620996
+        "lat": -25.581851,
+        "lon": -48.362509
     },
     {
         "name": "Agropet XV",
