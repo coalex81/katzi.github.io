@@ -84,6 +84,12 @@ data = [
         "lon": -49.296149
     },
     {
+        "name": "Aconchego dos Bichos",
+        "url": "https://www.google.com/maps/place/Aconchego+dos+Bichos/@-25.3957076,-49.2733471,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce6c6172680f1:0x63e67d3f6e3a421a!8m2!3d-25.3957125!4d-49.271153",
+        "lat": -25.395851,
+        "lon": -49.270994
+    },
+    {
         "name": "Universo Pet",
         "url": "https://www.google.com/maps/place/Universo+Pet/@-25.9208335,-48.5802678,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbfbd5ee65fd35:0xa645c4ca78194e80!8m2!3d-25.9208383!4d-48.5780737",
         "lat": -25.894052,
@@ -250,5 +256,11 @@ data = [
         "url": "https://www.google.com/maps/place/FOFOC%C3%83O+Pet+Shop-+Banho+E+Tosa/@-26.243194,-48.6259711,17z/data=!3m1!4b1!4m5!3m4!1s0x94d94e8a1d98703d:0x71cc7bfd6ea2e91c!8m2!3d-26.2431988!4d-48.623777",
         "lat": -26.243199,
         "lon": -48.623776
+    },
+    {
+        "name": "Agropet Colônia",
+        "url": "https://www.google.com/maps/place/Agropet+Col%C3%B4nia/@-25.0921136,-50.1582726,18.5z/data=!4m5!3m4!1s0x94e81a40b13dc705:0x1f8e23f5286ae056!8m2!3d-25.092345!4d-50.1579786",
+        "lat": -25.092330,
+        "lon": -50.157980
     },
 ]
