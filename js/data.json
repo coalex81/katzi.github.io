@@ -180,6 +180,18 @@ data = [
         "lon": -48.362509
     },
     {
+        "name": "Clínica Veterinária Pêlos e Patas",
+        "url": "https://www.google.com/maps/place/Cl%C3%ADnica+Veterin%C3%A1ria+P%C3%AAlos+e+Patas/@-25.5184901,-48.5214811,17z/data=!3m1!4b1!4m5!3m4!1s0x94db9a579a99dbd1:0x9b9dc37a00091193!8m2!3d-25.518495!4d-48.519287",
+        "lat": -25.518466,
+        "lon": -48.519276
+    },
+    {
+        "name": "Aviário Cão Peão",
+        "url": "https://www.google.com/maps/place/Avi%C3%A1rio+C%C3%A3o+Pe%C3%A3o/@-25.526538,-48.5239027,18.5z/data=!4m5!3m4!1s0x0:0x1f1c51527e5e63a8!8m2!3d-25.5266501!4d-48.523787",
+        "lat": -25.526639,
+        "lon": -48.523783
+    },
+    {
         "name": "Agropet XV",
         "url": "https://www.google.com/maps/place/Agropet+XV/@-26.2957241,-48.87056,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb01b27c7d517:0x9a5c878d8e338ece!8m2!3d-26.2957289!4d-48.8683659",
         "lat": -26.295705,
