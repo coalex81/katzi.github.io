@@ -90,6 +90,12 @@ data = [
         "lon": -49.270994
     },
     {
+        "name": "Pet Fantasy",
+        "url": "https://www.google.com/maps/place/Pet+Fantasy/@-25.4000922,-49.2616229,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce699776240eb:0x4cea2b493292f272!8m2!3d-25.4000971!4d-49.2594288",
+        "lat": -25.400087,
+        "lon": -49.259440
+    },
+    {
         "name": "Pet Samary's",
         "url": "https://www.google.com/maps/place/Pet+Samary's/@-25.4345428,-49.3047482,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce3e9bab00df9:0x35c2c28ac3256de2!8m2!3d-25.4345477!4d-49.3025541",
         "lat": -25.434519,
@@ -102,10 +108,10 @@ data = [
         "lon": -49.294465
     },
     {
-        "name": "Pet Fantasy",
-        "url": "https://www.google.com/maps/place/Pet+Fantasy/@-25.4000922,-49.2616229,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce699776240eb:0x4cea2b493292f272!8m2!3d-25.4000971!4d-49.2594288",
-        "lat": -25.400087,
-        "lon": -49.259440
+        "name": "Armazém da Ração",
+        "url": "https://www.google.com/maps/place/Armaz%C3%A9m+da+Ra%C3%A7%C3%A3o/@-25.4350732,-49.2463043,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce453482fe6f7:0xee9b9f23ce9bb395!8m2!3d-25.4350732!4d-49.2441102",
+        "lat": -25.435054,
+        "lon": -49.244110
     },
     {
         "name": "Universo Pet",
