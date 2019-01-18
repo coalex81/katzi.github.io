@@ -258,16 +258,64 @@ data = [
         "lon": -48.908027
     },
     {
-        "name": "Agropet XV",
-        "url": "https://www.google.com/maps/place/Agropet+XV/@-26.2957241,-48.87056,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb01b27c7d517:0x9a5c878d8e338ece!8m2!3d-26.2957289!4d-48.8683659",
-        "lat": -26.295705,
-        "lon": -48.868350
+        "name": "Agropecuária Gira Sol",
+        "url": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Gira+Sol/@-26.241185,-48.8029041,17z/data=!3m1!4b1!4m5!3m4!1s0x94deae75ef8328cb:0x5f1be9f74c35bce1!8m2!3d-26.241185!4d-48.80071",
+        "lat": -26.241156,
+        "lon": -48.800699
     },
     {
         "name": "Agropecuária Manchester",
         "url": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Manchester/@-26.2977077,-48.8478759,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb036603125e3:0xe04a54278d8dda8f!8m2!3d-26.2977125!4d-48.8456818",
         "lat": -26.297710,
         "lon": -48.845675
+    },
+    {
+        "name": "Agropecuária Mascote",
+        "url": "https://www.google.com/maps/place/R.+Florian%C3%B3polis,+1299+-+Guanabara,+Joinville+-+SC,+89207-000/@-26.3294741,-48.8338759,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb11987906e3f:0xf824ad6bd1a900fe!8m2!3d-26.3294741!4d-48.8316818",
+        "lat": -26.329464,
+        "lon": -48.831682
+    },
+    {
+        "name": "Agropecuária Pedroso",
+        "url": "https://www.google.com/maps/place/R.+D%C3%ADlson+Funaro,+667+-+Ulysses+Guimar%C3%A3es,+Joinville+-+SC,+89230-648/@-26.3262833,-48.7984665,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb3e16f8b5db9:0x144cc2d2358b881c!8m2!3d-26.3262833!4d-48.7962724",
+        "lat": -26.326274,
+        "lon": -48.796262
+    },
+    {
+        "name": "Agropecuária Selva",
+        "url": "https://www.google.com/maps/place/Av.+Paulo+Schroeder,+1995+-+Boehmerwald,+Joinville+-+SC,+89232-302/@-26.3517718,-48.833859,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb12d05077109:0x2e8ed634da627583!8m2!3d-26.3517718!4d-48.8316649",
+        "lat": -26.351753,
+        "lon": -48.831654
+    },
+    {
+        "name": "Agropecuária Tuiuti",
+        "url": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Tuiuti/@-26.24839,-48.8237524,17z/data=!3m1!4b1!4m5!3m4!1s0x94deae418611033b:0xad5e6bc8c695be42!8m2!3d-26.24839!4d-48.8215583",
+        "lat": -26.248371,
+        "lon": -48.821558
+    },
+    {
+        "name": "Agropecuária Vargas",
+        "url": "https://www.google.com/maps/place/R.+S%C3%A3o+Firmino,+905+-+Vila+Nova,+Joinville+-+SC,+89237-360/@-26.2920531,-48.9114781,17z/data=!3m1!4b1!4m5!3m4!1s0x94dea53ab87c4f99:0x398313b30034fe32!8m2!3d-26.2920531!4d-48.909284",
+        "lat": -26.292015,
+        "lon": -48.909284
+    },
+    {
+        "name": "Agropecuária Vital Pet",
+        "url": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Vital+Pet/@-26.3257592,-48.7966691,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb3e6acd5a6f5:0x49083974cca38e22!8m2!3d-26.3257592!4d-48.794475",
+        "lat": -26.325750,
+        "lon": -48.794464
+    },
+    {
+        "name": "Agropet Rodrigues",
+        "url": "https://www.google.com/maps/place/Agro+Pet+Rodrigues/@-26.2473275,-48.8128145,17z/data=!3m1!4b1!4m5!3m4!1s0x94deae6d726fa457:0x34b86c444126ca7!8m2!3d-26.2473323!4d-48.8106204",
+        "lat": -26.247330,
+        "lon": -48.810620
+    },
+    {
+        "name": "Agropet XV",
+        "url": "https://www.google.com/maps/place/Agropet+XV/@-26.2957241,-48.87056,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb01b27c7d517:0x9a5c878d8e338ece!8m2!3d-26.2957289!4d-48.8683659",
+        "lat": -26.295705,
+        "lon": -48.868350
     },
     {
         "name": "Super Pet Show",
@@ -292,12 +340,6 @@ data = [
         "url": "https://www.google.com/maps/place/Pet+Shop+Neves/@-26.2931322,-48.8632191,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb10058f38723:0xd4965841e8b8b95f!8m2!3d-26.293137!4d-48.861025",
         "lat": -26.293132,
         "lon": -48.861025
-    },
-    {
-        "name": "Agropet Rodrigues",
-        "url": "https://www.google.com/maps/place/Agro+Pet+Rodrigues/@-26.2473275,-48.8128145,17z/data=!3m1!4b1!4m5!3m4!1s0x94deae6d726fa457:0x34b86c444126ca7!8m2!3d-26.2473323!4d-48.8106204",
-        "lat": -26.247330,
-        "lon": -48.810620
     },
     {
         "name": "Cãotinho Pet Shop",
