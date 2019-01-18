@@ -318,6 +318,18 @@ data = [
         "lon": -48.868350
     },
     {
+        "name": "Pet Shop Bichinho Sapeca",
+        "url": "https://www.google.com/maps/place/R.+dos+Su%C3%AD%C3%A7os,+1998+-+Vila+Nova,+Joinville+-+SC,+89237-613/@-26.2776528,-48.911416,17z/data=!3m1!4b1!4m5!3m4!1s0x94dea510a27c7fdb:0x314fee13f560bd6f!8m2!3d-26.2776528!4d-48.9092219",
+        "lat": -26.277643,
+        "lon": -48.909211
+    },
+    {
+        "name": "Bicho Rei Pet Shop",
+        "url": "https://www.google.com/maps/place/Bicho+Rei+Pet+Shop/@-26.3017889,-48.8270616,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb1bb5c2093f7:0xc335d3690dbe28a!8m2!3d-26.3017889!4d-48.8248675",
+        "lat": -26.301779,
+        "lon": -48.824857
+    },
+    {
         "name": "Super Pet Show",
         "url": "https://www.google.com/maps/place/Super+Pet+Show/@-26.3157411,-48.8456551,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb05447763a53:0x5d2741fd4378b75c!8m2!3d-26.3157459!4d-48.843461",
         "lat": -26.315731,
