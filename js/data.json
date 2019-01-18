@@ -240,6 +240,12 @@ data = [
         "lon": -48.844661
     },
     {
+        "name": "Agropecuária Fênix",
+        "url": "https://www.google.com/maps/place/26%C2%B021'03.1%22S+48%C2%B047'48.5%22W/@-26.350848,-48.7990031,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d-26.350848!4d-48.796809",
+        "lat": -26.350848,
+        "lon": -48.796809
+    },
+    {
         "name": "Agronec",
         "url": "https://www.google.com/maps/place/Agronec+Agropecu%C3%A1ria/@-26.3617865,-48.8135546,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb6c779731da9:0x5af304918e83a2a5!8m2!3d-26.3617865!4d-48.8113605",
         "lat": -26.361767,
