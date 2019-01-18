@@ -228,6 +228,18 @@ data = [
         "lon": -48.523783
     },
     {
+        "name": "Mapet Center",
+        "url": "https://www.google.com/maps/place/Mapet+Center/@-26.2771605,-48.8489121,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb04490c55211:0x3a426334c0389c00!8m2!3d-26.2771605!4d-48.846718",
+        "lat": -26.277151,
+        "lon": -48.846707
+    },
+    {
+        "name": "ZumPet (Agropecuária Canarinho)",
+        "url": "https://www.google.com/maps/place/ZumPet+(Agropecu%C3%A1ria+Canarinho)/@-26.3404174,-48.8249617,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb139da9d5247:0x2d7ae7612987db7e!8m2!3d-26.3404174!4d-48.8227676",
+        "lat": -26.340398,
+        "lon": -48.822778
+    },
+    {
         "name": "Catarinna's Agropet",
         "url": "https://www.google.com/maps/place/Pet+shop+Catarinna's+Agropet/@-26.3272989,-48.8678256,17.5z/data=!4m8!1m2!2m1!1sCATARINNAS+AGROPET+joinville!3m4!1s0x0:0x9925069bd42fe6b5!8m2!3d-26.3278644!4d-48.8650846",
         "lat": -26.327843,
