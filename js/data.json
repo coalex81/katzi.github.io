@@ -138,6 +138,12 @@ data = [
         "lon": -48.576392
     },
     {
+        "name": "Aviário & Pet Shop Faro Fino - Filial",
+        "url": "https://www.google.com/maps/place/Aviario+%26+Pet+Shop+Faro+Fino+-+Filial/@-25.8823115,-48.5806846,18z/data=!3m1!4b1!4m5!3m4!1s0x94dbfb568c87ae55:0x8b5409528875df7c!8m2!3d-25.8823115!4d-48.5796491",
+        "lat": -25.882287,
+        "lon": -48.579647
+    },
+    {
         "name": "Amis Vet",
         "url": "https://www.google.com/maps/place/AMIS+VET+CLINICA+VETERINARIA/@-25.8763451,-48.5760951,17z/data=!4m12!1m6!3m5!1s0x94dbfa9e13ce97a5:0x7ba489fd59beb8d5!2sAMIS+VET+CLINICA+VETERINARIA!8m2!3d-25.8765586!4d-48.5760342!3m4!1s0x94dbfa9e13ce97a5:0x7ba489fd59beb8d5!8m2!3d-25.8765586!4d-48.5760342",
         "lat": -25.876558,
@@ -210,10 +216,46 @@ data = [
         "lon": -48.519276
     },
     {
+        "name": "Aviário do Japa",
+        "url": "https://www.google.com/maps/place/R.+Conselheiro+Corr%C3%AAa,+1490+-+Bockmann,+Paranagu%C3%A1+-+PR,+83206-280/@-25.5191148,-48.5224393,18z/data=!3m1!4b1!4m13!1m7!3m6!1s0x94db9ae5c93dc3ed:0xa7b55278e4a8ae8b!2sParanagu%C3%A1+-+PR!3b1!8m2!3d-25.5148758!4d-48.5226223!3m4!1s0x94db9af70b6f985b:0x67a4e8f9c602f0d7!8m2!3d-25.5191148!4d-48.5215168",
+        "lat": -25.519173,
+        "lon": -48.521568
+    },
+    {
         "name": "Aviário Cão Peão",
         "url": "https://www.google.com/maps/place/Avi%C3%A1rio+C%C3%A3o+Pe%C3%A3o/@-25.526538,-48.5239027,18.5z/data=!4m5!3m4!1s0x0:0x1f1c51527e5e63a8!8m2!3d-25.5266501!4d-48.523787",
         "lat": -25.526639,
         "lon": -48.523783
+    },
+    {
+        "name": "Catarinna's Agropet",
+        "url": "https://www.google.com/maps/place/Pet+shop+Catarinna's+Agropet/@-26.3272989,-48.8678256,17.5z/data=!4m8!1m2!2m1!1sCATARINNAS+AGROPET+joinville!3m4!1s0x0:0x9925069bd42fe6b5!8m2!3d-26.3278644!4d-48.8650846",
+        "lat": -26.327843,
+        "lon": -48.865075
+    },
+    {
+        "name": "Agromer Agropecuária",
+        "url": "https://www.google.com/maps/place/R.+Laura+Auler,+Joinville+-+SC/@-26.3667421,-48.8456035,17.83z/data=!4m5!3m4!1s0x94deb72f18ca04b9:0x8093be67d5227617!8m2!3d-26.3667218!4d-48.8446649",
+        "lat": -26.366726,
+        "lon": -48.844661
+    },
+    {
+        "name": "Agronec",
+        "url": "https://www.google.com/maps/place/Agronec+Agropecu%C3%A1ria/@-26.3617865,-48.8135546,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb6c779731da9:0x5af304918e83a2a5!8m2!3d-26.3617865!4d-48.8113605",
+        "lat": -26.361767,
+        "lon": -48.811361
+    },
+    {
+        "name": "Agropecuária Cão Fiel",
+        "url": "https://www.google.com/maps/place/Agropecu%C3%A1ria+C%C3%A3o+Fiel/@-26.3210419,-48.8183995,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb16db0a3bdd3:0xe546e0398f17eced!8m2!3d-26.3210467!4d-48.8162054",
+        "lat": -26.321042,
+        "lon": -48.816205
+    },
+    {
+        "name": "Agropecuária JM",
+        "url": "https://www.google.com/maps/place/Agropecu%C3%A1ria+JM/@-26.3285122,-48.91021,17z/data=!3m1!4b1!4m5!3m4!1s0x94debaef1b5ee3a7:0xad8331f9bd722ae8!8m2!3d-26.3285122!4d-48.9080159",
+        "lat": -26.328483,
+        "lon": -48.908027
     },
     {
         "name": "Agropet XV",
@@ -262,12 +304,6 @@ data = [
         "url": "https://www.google.com/maps/place/C%C3%A3otinho+Pet+Shop/@-26.2849582,-48.8735442,17z/data=!3m1!4b1!4m5!3m4!1s0x94deaffc9fcea90b:0x887d2be455a75a32!8m2!3d-26.284963!4d-48.8713501",
         "lat": -26.284949,
         "lon": -48.871350
-    },
-    {
-        "name": "Agropecuária Cão Fiel",
-        "url": "https://www.google.com/maps/place/Agropecu%C3%A1ria+C%C3%A3o+Fiel/@-26.3210419,-48.8183995,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb16db0a3bdd3:0xe546e0398f17eced!8m2!3d-26.3210467!4d-48.8162054",
-        "lat": -26.321042,
-        "lon": -48.816205
     },
     {
         "name": "Dona Pet",
