@@ -354,22 +354,40 @@ data = [
         "lon": -48.828966
     },
     {
-        "name": "Super Pet Show",
-        "url": "https://www.google.com/maps/place/Super+Pet+Show/@-26.3157411,-48.8456551,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb05447763a53:0x5d2741fd4378b75c!8m2!3d-26.3157459!4d-48.843461",
-        "lat": -26.315731,
-        "lon": -48.843488
+        "name": "Clínica Veterinária Peludos & Cia",
+        "url": "https://www.google.com/maps/place/Cl%C3%ADnica+Veterin%C3%A1ria+Peludos+%26+Cia/@-26.3071113,-48.8307941,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb1a59dc6a60f:0xb21e8a1d76f22a9c!8m2!3d-26.3071113!4d-48.8286",
+        "lat": -26.307102,
+        "lon": -48.828589
     },
     {
-        "name": "Bicho Solto - Animal Care",
-        "url": "https://www.google.com/maps/place/Bicho+Solto+-+Animal+Care/@-26.3025301,-48.8590449,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb0691ad65d05:0xb692f125767b0544!8m2!3d-26.3025349!4d-48.8568508",
-        "lat": -26.302532,
-        "lon": -48.856853
+        "name": "Agropet Pet & Cia",
+        "url": "https://www.google.com/maps/place/Agropet+Pet+%26+Cia/@-26.3229018,-48.8189515,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb16c5dd1cd81:0x727c54d32433e3b5!8m2!3d-26.3229018!4d-48.8167574",
+        "lat": -26.322899,
+        "lon": -48.816764
     },
     {
         "name": "Pet Shop Neves",
         "url": "https://www.google.com/maps/place/Pet+Shop+Neves/@-26.2931322,-48.8632191,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb10058f38723:0xd4965841e8b8b95f!8m2!3d-26.293137!4d-48.861025",
         "lat": -26.293132,
         "lon": -48.861025
+    },
+    {
+        "name": "Super Pet Show",
+        "url": "https://www.google.com/maps/place/Super+Pet+Show/@-26.3157411,-48.8456551,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb05447763a53:0x5d2741fd4378b75c!8m2!3d-26.3157459!4d-48.843461",
+        "lat": -26.315731,
+        "lon": -48.843488
+    },
+    {
+        "name": "Ponto Pet - Pet Shop",
+        "url": "https://www.google.com/maps/place/Ponto+Pet+-+Pet+Shop/@-26.305674,-48.8573386,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb0413641aa2d:0x30332b09591a4382!8m2!3d-26.305674!4d-48.8551445",
+        "lat": -26.305674,
+        "lon": -48.855134
+    },
+    {
+        "name": "Bicho Solto - Animal Care",
+        "url": "https://www.google.com/maps/place/Bicho+Solto+-+Animal+Care/@-26.3025301,-48.8590449,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb0691ad65d05:0xb692f125767b0544!8m2!3d-26.3025349!4d-48.8568508",
+        "lat": -26.302532,
+        "lon": -48.856853
     },
     {
         "name": "Dona Pet",
