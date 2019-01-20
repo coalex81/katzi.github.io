@@ -44,7 +44,7 @@ function myMap() {
         google.maps.event.addListener(marker, 'click', (function(marker, i) {
             return function() {
                 infowindow.setContent(
-                    '<a href="' + data[i].url + '">'
+                    '<a href="' + data[i].url + '" target="_blank">'
                         + data[i].name
                     + '</a>'
                 );
