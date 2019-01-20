@@ -162,6 +162,12 @@ data = [
         "lon": -48.539033
     },
     {
+        "name": "Bicho Comilão",
+        "url": "https://www.google.com/maps/place/Adestra+Pet/@-25.761211,-48.509263,16.04z/data=!4m8!1m2!2m1!1spet+shop!3m4!1s0x0:0x82ea15c10001bb5d!8m2!3d-25.7615952!4d-48.5093164",
+        "lat": -25.761559,
+        "lon": -48.509320
+    },
+    {
         "name": "Agro Comercial Morretes",
         "url": "https://www.google.com/maps/place/Agro+Comercial+Morretes/@-25.4808716,-48.8326398,17z/data=!3m1!4b1!4m5!3m4!1s0x94dc87726ddcfe2b:0xd05d5ac132fe4608!8m2!3d-25.4808765!4d-48.8304457",
         "lat": -25.480876,
