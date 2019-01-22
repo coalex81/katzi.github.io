@@ -114,6 +114,18 @@ data = [
         "lon": -49.244110
     },
     {
+        "name": "Empório dos Bichos",
+        "url": "https://www.google.com/maps/place/Emp%C3%B3rio+dos+Bichos/@-25.4388568,-49.3248465,17.25z/data=!4m5!3m4!1s0x94dce22d577950f9:0x80431c2a7d37bb6d!8m2!3d-25.4388507!4d-49.3230715",
+        "lat": -25.438637,
+        "lon": -49.322659
+    },
+    {
+        "name": "Mimos de Bichos",
+        "url": "https://www.google.com/maps/place/Mimos+de+Bichos+Arranhadores/@-25.4879457,-49.2304591,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcfbad62978fa1:0x4042004fb1d771d!8m2!3d-25.4879457!4d-49.228265",
+        "lat": -25.487936,
+        "lon": -49.228254
+    },
+    {
         "name": "Universo Pet",
         "url": "https://www.google.com/maps/place/Universo+Pet/@-25.9208335,-48.5802678,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbfbd5ee65fd35:0xa645c4ca78194e80!8m2!3d-25.9208383!4d-48.5780737",
         "lat": -25.894052,
