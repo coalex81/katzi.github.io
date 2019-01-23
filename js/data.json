@@ -126,6 +126,12 @@ data = [
         "lon": -49.228254
     },
     {
+        "name": "Santa Pet",
+        "url": "https://www.google.com/maps/place/Santa+Pet/@-25.4002531,-49.2501577,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce681701e5555:0xc838c8e88f4ab4ca!8m2!3d-25.400258!4d-49.2479636",
+        "lat": -25.400248,
+        "lon": -49.247964
+    },
+    {
         "name": "Universo Pet",
         "url": "https://www.google.com/maps/place/Universo+Pet/@-25.9208335,-48.5802678,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbfbd5ee65fd35:0xa645c4ca78194e80!8m2!3d-25.9208383!4d-48.5780737",
         "lat": -25.894052,
