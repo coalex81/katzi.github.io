@@ -234,10 +234,22 @@ data = [
         "lon": -48.362509
     },
     {
+        "name": "Pet-shop Nutrimax",
+        "url": "https://www.google.com/maps/place/Pet-shop+Nutrimax/@-25.5221959,-48.5175754,17z/data=!3m1!4b1!4m5!3m4!1s0x94db9a5f3a9bc891:0x668c8d05f3db89a5!8m2!3d-25.5221959!4d-48.5153813",
+        "lat": -25.522188,
+        "lon": -48.515376
+    },
+    {
         "name": "Clínica Veterinária Pêlos e Patas",
         "url": "https://www.google.com/maps/place/Cl%C3%ADnica+Veterin%C3%A1ria+P%C3%AAlos+e+Patas/@-25.5184901,-48.5214811,17z/data=!3m1!4b1!4m5!3m4!1s0x94db9a579a99dbd1:0x9b9dc37a00091193!8m2!3d-25.518495!4d-48.519287",
         "lat": -25.518466,
         "lon": -48.519276
+    },
+    {
+        "name": "MyPet",
+        "url": "https://www.google.com/maps/place/MY+PET/@-25.5129988,-48.5084066,17z/data=!3m1!4b1!4m5!3m4!1s0x94db9b218c3d2d4f:0xe3fa63c75a991c68!8m2!3d-25.5129988!4d-48.5062125",
+        "lat": -25.512859,
+        "lon": -48.505935
     },
     {
         "name": "Aviário do Japa",
