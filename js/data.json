@@ -138,6 +138,18 @@ data = [
         "lon": -49.230849
     },
     {
+        "name": "The Pet's Store",
+        "url": "https://www.google.com/maps/place/The+Pet's+Store+-+Pet+Shop/@-25.4017713,-49.2776837,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce6b03e9eaaab:0xceaa3a53e0328045!8m2!3d-25.4017713!4d-49.2754896",
+        "lat": -25.401762,
+        "lon": -49.275490
+    },
+    {
+        "name": "Dog & Cia",
+        "url": "https://www.google.com/maps/place/Dog+%26+Cia/@-25.3827729,-49.2958116,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce128975187eb:0x4a516a1de051c0ba!8m2!3d-25.3827729!4d-49.2936175",
+        "lat": -25.382773,
+        "lon": -49.293612
+    },
+    {
         "name": "Universo Pet",
         "url": "https://www.google.com/maps/place/Universo+Pet/@-25.9208335,-48.5802678,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbfbd5ee65fd35:0xa645c4ca78194e80!8m2!3d-25.9208383!4d-48.5780737",
         "lat": -25.894052,
