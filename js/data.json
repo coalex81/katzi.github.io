@@ -150,6 +150,18 @@ data = [
         "lon": -49.293612
     },
     {
+        "name": "Intensiva Hospital Veterinário",
+        "url": "https://www.google.com/maps/place/Intensiva+Hospital+Veterin%C3%A1rio/@-25.424794,-49.2931733,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce3fbb24eb129:0x50617c4ce570002c!8m2!3d-25.424794!4d-49.2909792",
+        "lat": -25.424794,
+        "lon": -49.290979
+    },
+    {
+        "name": "Namu Royal Pet Store",
+        "url": "https://www.google.com/maps/place/Namu+Royal+Pet+Store/@-25.4142503,-49.2736781,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce41c5802666b:0x1af5ef04f1c78855!8m2!3d-25.4142503!4d-49.271484",
+        "lat": -25.414241,
+        "lon": -49.271473
+    },
+    {
         "name": "Universo Pet",
         "url": "https://www.google.com/maps/place/Universo+Pet/@-25.9208335,-48.5802678,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbfbd5ee65fd35:0xa645c4ca78194e80!8m2!3d-25.9208383!4d-48.5780737",
         "lat": -25.894052,
