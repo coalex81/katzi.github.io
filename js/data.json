@@ -162,6 +162,18 @@ data = [
         "lon": -49.271473
     },
     {
+        "name": "Dog Online",
+        "url": "https://www.google.com/maps/place/Dog+Line/@-25.4395436,-49.2999565,17z/data=!4m5!3m4!1s0x94dce3ea55331adf:0x9d960dc3864b0e3c!8m2!3d-25.4394324!4d-49.3000628",
+        "lat": -25.439408,
+        "lon": -49.300048
+    },
+    {
+        "name": "Alecrim Pet",
+        "url": "https://www.google.com/maps/place/Alecrim+Pet+Store/@-25.4416829,-49.2768532,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce47ae8d59f47:0xd2c312db51415854!8m2!3d-25.4416829!4d-49.2746591",
+        "lat": -25.441666,
+        "lon": -49.274647
+    },
+    {
         "name": "Universo Pet",
         "url": "https://www.google.com/maps/place/Universo+Pet/@-25.9208335,-48.5802678,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbfbd5ee65fd35:0xa645c4ca78194e80!8m2!3d-25.9208383!4d-48.5780737",
         "lat": -25.894052,
