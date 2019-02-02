@@ -504,6 +504,18 @@ data = [
         "lon": -48.856853
     },
     {
+        "name": "Petshop Dudy",
+        "url": "https://www.google.com/maps/place/Petshop+Dudy/@-26.2657474,-48.815918,17z/data=!3m1!4b1!4m5!3m4!1s0x94deae1bfefcbfdb:0x5b409d6fd2f26e5a!8m2!3d-26.2657474!4d-48.8137239",
+        "lat": -26.265738,
+        "lon": -48.813713
+    },
+    {
+        "name": "Agropecuária Canários & Cia",
+        "url": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Can%C3%A1rios+%26+Cia/@-26.2955407,-48.9020775,17z/data=!3m1!4b1!4m5!3m4!1s0x94dea54a0923455f:0x7cc680ad9bb2081!8m2!3d-26.2955407!4d-48.8998834",
+        "lat": -26.295531,
+        "lon": -48.899883
+    },
+    {
         "name": "Dona Pet",
         "url": "https://www.google.com/maps/place/Dona+Pet/@-26.9857241,-48.6361296,17z/data=!3m1!4b1!4m5!3m4!1s0x94d8b6017d4b5999:0x2ec5dbd08f580c18!8m2!3d-26.9857289!4d-48.6339355",
         "lat": -26.985724,
@@ -526,6 +538,12 @@ data = [
         "url": "https://www.google.com/maps/place/FOFOC%C3%83O+Pet+Shop-+Banho+E+Tosa/@-26.243194,-48.6259711,17z/data=!3m1!4b1!4m5!3m4!1s0x94d94e8a1d98703d:0x71cc7bfd6ea2e91c!8m2!3d-26.2431988!4d-48.623777",
         "lat": -26.243199,
         "lon": -48.623776
+    },
+    {
+        "name": "Agro Pet Shop Paraná",
+        "url": "https://www.google.com/maps/place/Agro+Pet+Shop+Paran%C3%A1/@-26.2664613,-48.6442164,16.75z/data=!4m5!3m4!1s0x94d94e910f097d4d:0x505bca1995db6417!8m2!3d-26.2664607!4d-48.6416742",
+        "lat": -26.266438,
+        "lon": -48.641658
     },
     {
         "name": "Agropet Colônia",
