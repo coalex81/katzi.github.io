@@ -180,6 +180,12 @@ data = [
         "lon": -49.249626
     },
     {
+        "name": "Nutri Pet Shop",
+        "url": "https://www.google.com/maps/place/Nutri+Pet+Shop/@-25.3982973,-49.2521533,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce684124263cd:0xf9a467e4de9b4840!8m2!3d-25.3982973!4d-49.2499592",
+        "lat": -25.398268,
+        "lon": -49.249948
+    },
+    {
         "name": "Universo Pet",
         "url": "https://www.google.com/maps/place/Universo+Pet/@-25.9208335,-48.5802678,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbfbd5ee65fd35:0xa645c4ca78194e80!8m2!3d-25.9208383!4d-48.5780737",
         "lat": -25.894052,
