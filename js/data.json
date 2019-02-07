@@ -186,6 +186,12 @@ data = [
         "lon": -49.249948
     },
     {
+        "name": "Boticão Pet Shop",
+        "url": "https://www.google.com/maps/place/Botic%C3%A3o+Pet+Shop/@-25.3894334,-49.2448908,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce6628a754a89:0x486159105e2364d4!8m2!3d-25.3894334!4d-49.2426967",
+        "lat": -25.389404,
+        "lon": -49.242697
+    },
+    {
         "name": "Universo Pet",
         "url": "https://www.google.com/maps/place/Universo+Pet/@-25.9208335,-48.5802678,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbfbd5ee65fd35:0xa645c4ca78194e80!8m2!3d-25.9208383!4d-48.5780737",
         "lat": -25.894052,
