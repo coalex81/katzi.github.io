@@ -324,6 +324,18 @@ data = [
         "lon": -48.523783
     },
     {
+        "name": "Aviário Terra Fértil",
+        "url": "https://www.google.com/maps/place/Terra+F%C3%A9rtil+Antonina/@-25.4349063,-48.7331882,17z/data=!3m1!4b1!4m5!3m4!1s0x94db7fd9b6393ef1:0xb9f38dc20d973ce2!8m2!3d-25.4349063!4d-48.7309995",
+        "lat": -25.434877,
+        "lon": -48.731005
+    },
+    {
+        "name": "Aviário Terra Fértil Centro",
+        "url": "https://www.google.com/maps/place/Avi%C3%A1rio+Terra+F%C3%A9rtil+Centro/@-25.4307814,-48.7157433,17z/data=!3m1!4b1!4m5!3m4!1s0x94db7fdbd22f353d:0x53a547a2b5a54399!8m2!3d-25.4307814!4d-48.7135492",
+        "lat": -25.430762,
+        "lon": -48.713560
+    },
+    {
         "name": "Mapet Center",
         "url": "https://www.google.com/maps/place/Mapet+Center/@-26.2771605,-48.8489121,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb04490c55211:0x3a426334c0389c00!8m2!3d-26.2771605!4d-48.846718",
         "lat": -26.277151,
