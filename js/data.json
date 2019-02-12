@@ -192,6 +192,18 @@ data = [
         "lon": -49.242697
     },
     {
+        "name": "Sweet Lounge Pet Store",
+        "url": "https://www.google.com/maps/place/sweet+lounge+pet/@-25.4222153,-49.2570552,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce52ccb9cf0fb:0x3ec603283d2dc95b!8m2!3d-25.4222153!4d-49.2548611",
+        "lat": -25.422206,
+        "lon": -49.254861
+    },
+    {
+        "name": "PetNinho",
+        "url": "https://www.google.com/maps/place/PetNinho/@-25.4163564,-49.2970453,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce159d28a6e8d:0xf337bcb1636f4310!8m2!3d-25.4163564!4d-49.2948512",
+        "lat": -25.416337,
+        "lon": -49.294862
+    },
+    {
         "name": "Universo Pet",
         "url": "https://www.google.com/maps/place/Universo+Pet/@-25.9208335,-48.5802678,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbfbd5ee65fd35:0xa645c4ca78194e80!8m2!3d-25.9208383!4d-48.5780737",
         "lat": -25.894052,
