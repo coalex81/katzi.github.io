@@ -546,6 +546,18 @@ data = [
         "lon": -48.813713
     },
     {
+        "name": "Agropecuária Catarinense",
+        "url": "https://www.google.com/maps/place/Comercial+e+Agropecuaria+Catarinense/@-26.360685,-48.8291851,17z/data=!3m1!4b1!4m12!1m6!3m5!1s0x94deb6cf74e0afb5:0x616eea5406742f1c!2sComercial+e+Agropecuaria+Catarinense!8m2!3d-26.360685!4d-48.826991!3m4!1s0x94deb6cf74e0afb5:0x616eea5406742f1c!8m2!3d-26.360685!4d-48.826991",
+        "lat": -26.360656,
+        "lon": -48.826980
+    },
+    {
+        "name": "Agroceza",
+        "url": "https://www.google.com/maps/place/Agroceza/@-26.2069322,-48.909394,17z/data=!3m1!4b1!4m5!3m4!1s0x94dea669af28d6ab:0x1eb5fc5fce0fc46c!8m2!3d-26.2069322!4d-48.9071999",
+        "lat": -26.206894,
+        "lon": -48.907200
+    },
+    {
         "name": "Agropecuária Canários & Cia",
         "url": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Can%C3%A1rios+%26+Cia/@-26.2955407,-48.9020775,17z/data=!3m1!4b1!4m5!3m4!1s0x94dea54a0923455f:0x7cc680ad9bb2081!8m2!3d-26.2955407!4d-48.8998834",
         "lat": -26.295531,
