@@ -2,75 +2,10 @@
 <html>
 
 <head>
-    <script type="text/javascript" src="js/data.json"></script>
+    <meta http-equiv="refresh" content="0; url=https://www.bangapet.com.br/" />
 </head>
 
 <body>
-
-    <!-- <center><h1>Pontos de Venda</h1></center> -->
-
-    <div id="googleMap" style="width:100%;height:500px;"></div>
-<!-- -25.895168,-48.926999 -->
-    <script>
-function myMap() {
-    var locations = [
-      ['<a href="https://www.google.com/maps/place/Rhassil/@-25.3924188,-49.2288047,17z/data=!4m12!1m6!3m5!1s0x94dce67468208523:0xc0f7e8ce56ca6165!2sRhassil!8m2!3d-25.3924237!4d-49.2266106!3m4!1s0x94dce67468208523:0xc0f7e8ce56ca6165!8m2!3d-25.3924237!4d-49.2266106">Rhassil</a>', -25.3924188, -49.2288047, 3],
-      ['AgroPetMaq', -25.809979, -48.538554, 2],
-      ['Agropecuária Manchester', -26.297533, -48.845703, 1]
-    ];
-
-    /*
-    var pinIcon = new google.maps.MarkerImage(
-        "http://chart.apis.google.com/chart?chst=d_map_pin_letter&chld=%E2%80%A2|FFFF00",
-        null, // size is determined at runtime
-        null, // origin is 0,0
-        null, // anchor is bottom center of the scaled image
-        new google.maps.Size(42, 68)
-    );
-    */
-
-    var mapCenter = new google.maps.LatLng(-26.071484,-48.658029);
-    var mapProp= {center:mapCenter,zoom:8};
-    var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
-    
-    var infowindow = new google.maps.InfoWindow();
-
-    var marker, i;
-    for (i = 0; i < data.length; i++) {
-        marker = new google.maps.Marker({
-            position: new google.maps.LatLng(data[i].lat, data[i].lon),
-            map: map
-        });
-        google.maps.event.addListener(marker, 'click', (function(marker, i) {
-            return function() {
-                infowindow.setContent(
-                    '<a href="' + data[i].url + '" target="_blank">'
-                        + data[i].name
-                    + '</a>'
-                );
-                infowindow.open(map, marker);
-            }
-        })(marker, i));
-    }
-/*
-    for (i = 0; i < locations.length; i++) {
-        marker = new google.maps.Marker({
-            position: new google.maps.LatLng(locations[i][1], locations[i][2]),
-            map: map
-        });
-        google.maps.event.addListener(marker, 'click', (function(marker, i) {
-            return function() {
-                infowindow.setContent(locations[i][0]);
-                infowindow.open(map, marker);
-            }
-        })(marker, i));
-    }
-*/
-}
-    </script>
-
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAEt3IifG_BiZLjINF2m66rPssHRfTgmJM&callback=myMap"></script>
-
+    <p><a href="https://www.bangapet.com.br/">Redirect</a></p>
 </body>
 </html>
-
