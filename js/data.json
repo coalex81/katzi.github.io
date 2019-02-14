@@ -216,6 +216,12 @@ data = [
         "lon": -49.278135
     },
     {
+        "name": "Totó e Trololó",
+        "url": "https://www.google.com/maps/place/Pet+Shop+E+consult%C3%B3rio+veterin%C3%A1rio+Tot%C3%B3+e+Trolol%C3%B3/@-25.427413,-49.2684621,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce41518c83bc1:0xa0c01614e47e464d!8m2!3d-25.427413!4d-49.266268",
+        "lat": -25.427394,
+        "lon": -49.266268
+    },
+    {
         "name": "Universo Pet",
         "url": "https://www.google.com/maps/place/Universo+Pet/@-25.9208335,-48.5802678,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbfbd5ee65fd35:0xa645c4ca78194e80!8m2!3d-25.9208383!4d-48.5780737",
         "lat": -25.894052,
