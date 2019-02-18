@@ -234,6 +234,12 @@ data = [
         "lon": -49.233815
     },
     {
+        "name": "Clínica Veterinária MacVet",
+        "url": "https://www.google.com/maps/place/CLINICA+VETERIN%C3%81RIA+MACVET/@-25.4395225,-49.2189224,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce571a147640b:0xf73e95e13519d878!8m2!3d-25.4395225!4d-49.2167283",
+        "lat": -25.439522,
+        "lon": -49.216728
+    },
+    {
         "name": "Universo Pet",
         "url": "https://www.google.com/maps/place/Universo+Pet/@-25.9208335,-48.5802678,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbfbd5ee65fd35:0xa645c4ca78194e80!8m2!3d-25.9208383!4d-48.5780737",
         "lat": -25.894052,
