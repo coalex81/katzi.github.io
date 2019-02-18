@@ -222,6 +222,18 @@ data = [
         "lon": -49.266268
     },
     {
+        "name": "Aupetmia / Lord Dog Pet Shop",
+        "url": "https://www.google.com/maps/place/Aupetmia+%2F+Lord+Dog+Pet+Shop/@-25.3970249,-49.2102119,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce5fbd52d7955:0xda02762f2f4394b4!8m2!3d-25.3970249!4d-49.2080178",
+        "lat": -25.397005,
+        "lon": -49.208007
+    },
+    {
+        "name": "Aupetmia",
+        "url": "https://www.google.com/maps/place/Aupetmia/@-25.3841468,-49.2360095,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce7a5d2a3d67b:0xe5642e577281c4b8!8m2!3d-25.3841468!4d-49.2338154",
+        "lat": -25.384118,
+        "lon": -49.233815
+    },
+    {
         "name": "Universo Pet",
         "url": "https://www.google.com/maps/place/Universo+Pet/@-25.9208335,-48.5802678,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbfbd5ee65fd35:0xa645c4ca78194e80!8m2!3d-25.9208383!4d-48.5780737",
         "lat": -25.894052,
