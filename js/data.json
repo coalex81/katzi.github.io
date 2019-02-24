@@ -252,6 +252,12 @@ data = [
         "lon": -49.292311
     },
     {
+        "name": "Avlis Pet Shop & Veterinária",
+        "url": "https://www.google.com/maps/place/Avlis+Pet+Shop+%26+Veterinaria/@-25.3724168,-49.2645541,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce6e0eb8213e3:0xef45a7195f28021f!8m2!3d-25.3724168!4d-49.26236",
+        "lat": -25.372407,
+        "lon": -49.262349
+    },
+    {
         "name": "Pet da Lici",
         "url": "https://www.google.com/maps/place/Pet+da+Lici/@-25.4005938,-49.3493454,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce1a95976f1df:0x67cb60b0391a9d06!8m2!3d-25.4005938!4d-49.3471513",
         "lat": -25.400584,
