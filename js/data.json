@@ -276,6 +276,18 @@ data = [
         "lon": -49.243200
     },
     {
+        "name": "Pet Mania",
+        "url": "https://www.google.com/maps/place/Pet+Mania/@-25.4591514,-49.2813329,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce4847587bb3f:0xc80b98f80f23b713!8m2!3d-25.4591514!4d-49.2791388",
+        "lat": -25.459151,
+        "lon": -49.279139
+    },
+    {
+        "name": "Chewbacca Pet Shop",
+        "url": "https://www.google.com/maps/place/Chewbacca+Pet+Shop/@-25.4564819,-49.2786869,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce5882baa9ef9:0xae5857e335037262!8m2!3d-25.4564819!4d-49.2764982?hl=pt-BR",
+        "lat": -25.456479,
+        "lon": -49.276500
+    },
+    {
         "name": "Universo Pet",
         "url": "https://www.google.com/maps/place/Universo+Pet/@-25.9208335,-48.5802678,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbfbd5ee65fd35:0xa645c4ca78194e80!8m2!3d-25.9208383!4d-48.5780737",
         "lat": -25.894052,
