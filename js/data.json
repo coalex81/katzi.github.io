@@ -294,6 +294,18 @@ data = [
         "lon": -49.352154
     },
     {
+        "name": "Pet Shop Novo Horizonte",
+        "url": "https://www.google.com/maps/place/Pet+Shop+Novo+Horizonte/@-25.4339137,-49.2193264,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce53a67d402bf:0x11ef336aee9f09c9!8m2!3d-25.4339137!4d-49.2171323",
+        "lat": -25.433894,
+        "lon": -49.217122
+    },
+    {
+        "name": "Fun Place Petshop",
+        "url": "https://www.google.com/maps/place/Fun+Place+Petshop/@-25.401185,-49.2673991,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce6a2f2bf9c61:0xf8ca74cbb9e4ab39!8m2!3d-25.401185!4d-49.265205",
+        "lat": -25.401185,
+        "lon": -49.265205
+    },
+    {
         "name": "Universo Pet",
         "url": "https://www.google.com/maps/place/Universo+Pet/@-25.9208335,-48.5802678,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbfbd5ee65fd35:0xa645c4ca78194e80!8m2!3d-25.9208383!4d-48.5780737",
         "lat": -25.894052,
