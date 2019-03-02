@@ -444,6 +444,12 @@ data = [
         "lon": -48.523783
     },
     {
+        "name": "Aviário Canarinho",
+        "url": "https://www.google.com/maps/place/Avi%C3%A1rio+Canarinho/@-25.5422949,-48.5338542,16z/data=!4m8!1m2!2m1!1saviario+!3m4!1s0x0:0xe4aca369f379cd20!8m2!3d-25.5418401!4d-48.5313213",
+        "lat": -25.541811,
+        "lon": -48.531290
+    },
+    {
         "name": "Aviário Terra Fértil",
         "url": "https://www.google.com/maps/place/Terra+F%C3%A9rtil+Antonina/@-25.4349063,-48.7331882,17z/data=!3m1!4b1!4m5!3m4!1s0x94db7fd9b6393ef1:0xb9f38dc20d973ce2!8m2!3d-25.4349063!4d-48.7309995",
         "lat": -25.434877,
