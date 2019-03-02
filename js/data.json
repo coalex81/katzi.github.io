@@ -444,6 +444,12 @@ data = [
         "lon": -48.523783
     },
     {
+        "name": "Filhotes e Fricotes Pet Shop",
+        "url": "https://www.google.com/maps/place/Filhotes+e+Fricotes+Pet+Shop/@-25.5221075,-48.5222985,17z/data=!4m12!1m6!3m5!1s0x94db9b61e6504979:0x1363142b471a0caa!2sFilhotes+e+Fricotes+Pet+Shop!8m2!3d-25.5221075!4d-48.5201044!3m4!1s0x94db9b61e6504979:0x1363142b471a0caa!8m2!3d-25.5221075!4d-48.5201044",
+        "lat": -25.522088,
+        "lon": -48.520104
+    },
+    {
         "name": "Aviário Canarinho",
         "url": "https://www.google.com/maps/place/Avi%C3%A1rio+Canarinho/@-25.5422949,-48.5338542,16z/data=!4m8!1m2!2m1!1saviario+!3m4!1s0x0:0xe4aca369f379cd20!8m2!3d-25.5418401!4d-48.5313213",
         "lat": -25.541811,
