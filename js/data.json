@@ -414,6 +414,12 @@ data = [
         "lon": -48.362509
     },
     {
+        "name": "Casa Pontal Pet Shop e Conveniência",
+        "url": "https://www.google.com/maps/place/Casa+Pontal+Pet+Shop+e+Conveni%C3%AAncia/@-25.6401998,-48.4408615,17z/data=!3m1!4b1!4m5!3m4!1s0x94db950207c3c551:0x27dfac18a41af866!8m2!3d-25.6401998!4d-48.4386674",
+        "lat": -25.640190,
+        "lon": -48.438657
+    },
+    {
         "name": "Pet-shop Nutrimax",
         "url": "https://www.google.com/maps/place/Pet-shop+Nutrimax/@-25.5221959,-48.5175754,17z/data=!3m1!4b1!4m5!3m4!1s0x94db9a5f3a9bc891:0x668c8d05f3db89a5!8m2!3d-25.5221959!4d-48.5153813",
         "lat": -25.522188,
