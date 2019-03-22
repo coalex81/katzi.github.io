@@ -522,6 +522,42 @@ data = [
         "lon": -48.713560
     },
     {
+        "name": "Peter Shop Rações",
+        "url": "https://www.google.com/maps/place/Peter+Shop+Ra%C3%A7%C3%B5es/@-26.2737288,-48.8839359,17z/data=!3m1!4b1!4m5!3m4!1s0x94dea5607638784d:0x66b5056308589ac8!8m2!3d-26.2737288!4d-48.8817418",
+        "lat": -26.273710,
+        "lon": -48.881742
+    },
+    {
+        "name": "Empório Pet Patas & Focinhos",
+        "url": "https://www.google.com/maps/place/Emp%C3%B3rio+Pet+Patas+%26+Focinhos/@-26.3336317,-48.8374603,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb11f2ff667e3:0xf31f67b37fdf9a03!8m2!3d-26.3336317!4d-48.8352662",
+        "lat": -26.333612,
+        "lon": -48.835266
+    },
+    {
+        "name": "Agropet Empório Animal",
+        "url": "https://www.google.com/maps/place/R.+Ten.+Ant%C3%B4nio+Jo%C3%A3o,+1534+-+Jardim+Sofia,+Joinville+-+SC,+89222-401/@-26.2626155,-48.8473585,17z/data=!3m1!4b1!4m5!3m4!1s0x94deafc98c41e059:0x78d1dd262580673f!8m2!3d-26.2626155!4d-48.8451644",
+        "lat": -26.262587,
+        "lon": -48.845164
+    },
+    {
+        "name": "Pet Joy",
+        "url": "https://www.google.com/maps/place/PET+JOY/@-26.2690038,-48.8762961,17z/data=!3m1!4b1!4m5!3m4!1s0x94deaf8c8a371d2f:0x852c3b4b94f40e7e!8m2!3d-26.2690038!4d-48.874102",
+        "lat": -26.268975,
+        "lon": -48.874102
+    },
+    {
+        "name": "Haus Tier Centro Veterinário",
+        "url": "https://www.google.com/maps/place/HAUS+TIER+Centro+Veterin%C3%A1rio/@-26.203,-48.9096061,17z/data=!3m1!4b1!4m5!3m4!1s0x94dea668d4ccc4dd:0xaaacfabb81737c5!8m2!3d-26.203!4d-48.907412",
+        "lat": -26.202981,
+        "lon": -48.907412
+    },
+    {
+        "name": "Mania de Pet",
+        "url": "https://www.google.com/maps/place/Mania+de+Pet/@-26.2402241,-48.8034735,17z/data=!3m1!4b1!4m5!3m4!1s0x94deae766f300001:0x193ad60dbda9c6b!8m2!3d-26.2402241!4d-48.8012794",
+        "lat": -26.240214,
+        "lon": -48.801269
+    },
+    {
         "name": "Mapet Center",
         "url": "https://www.google.com/maps/place/Mapet+Center/@-26.2771605,-48.8489121,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb04490c55211:0x3a426334c0389c00!8m2!3d-26.2771605!4d-48.846718",
         "lat": -26.277151,
