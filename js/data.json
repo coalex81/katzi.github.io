@@ -312,6 +312,54 @@ data = [
         "lon": -49.339389
     },
     {
+        "name": "Central Pet",
+        "url": "https://www.google.com/maps/place/Central+Pet/@-25.4295881,-49.2634232,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce440fef19d31:0xe6c330631959f558!8m2!3d-25.4295881!4d-49.2612291",
+        "lat": -25.429559,
+        "lon": -49.261218
+    },
+    {
+        "name": "Aviário Recanto dos Pássaros",
+        "url": "https://www.google.com/maps/place/Avi%C3%A1rio+Recanto+dos+P%C3%A1ssaros/@-25.4289608,-49.2750686,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce412650dfe35:0x7335bb1247b6721c!8m2!3d-25.4289608!4d-49.2728745",
+        "lat": -25.428941,
+        "lon": -49.272864
+    },
+    {
+        "name": "Avipec - Pinheirinho",
+        "url": "https://www.google.com/maps/place/Avipec+Pinheirinho/@-25.5256099,-49.2998895,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcfc91bacbe66f:0xef0d56c4a653e196!8m2!3d-25.5256099!4d-49.2976954",
+        "lat": -25.525581,
+        "lon": -49.297695
+    },
+    {
+        "name": "Avipec - São José dos Pinhais",
+        "url": "https://www.google.com/maps/place/Avipec+S%C3%A3o+Jos%C3%A9+Dos+Pinhais/@-25.5443156,-49.1926406,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcf76a866f7da7:0x4f67ada692946a2c!8m2!3d-25.5443156!4d-49.1904465",
+        "lat": -25.544306,
+        "lon": -49.190436
+    },
+    {
+        "name": "Espaço do Bicho",
+        "url": "https://www.google.com/maps/place/ESPA%C3%87O+DO+BICHO/@-25.4385931,-49.1914687,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcef938fcdbc81:0x1df95b0e1a06c036!8m2!3d-25.4385931!4d-49.1892746",
+        "lat": -25.438574,
+        "lon": -49.189264
+    },
+    {
+        "name": "Casa do Agricultor",
+        "url": "https://www.google.com/maps/place/Casa+do+Agr%C3%ADcultor/@-26.0274063,-48.8567866,17z/data=!3m1!4b1!4m5!3m4!1s0x94dc04ec7494dfd9:0x21bc1eb37d0ee24f!8m2!3d-26.0274063!4d-48.8545925",
+        "lat": -26.027397,
+        "lon": -48.854582
+    },
+    {
+        "name": "Animal House",
+        "url": "https://www.google.com/maps/place/ANIMAL+HOUSE/@-26.1149455,-48.6022402,17z/data=!4m5!3m4!1s0x94d956d4408b9d7f:0x625aaf7e59914a3a!8m2!3d-26.1149287!4d-48.6023875",
+        "lat": -26.114897,
+        "lon": -48.602374
+    },
+    {
+        "name": "Agrocomercial São Sebastião",
+        "url": "https://www.google.com/maps/place/R.+Frontin,+181,+Itapo%C3%A1+-+SC,+89249-000/@-26.0771129,-48.6137529,17z/data=!3m1!4b1!4m5!3m4!1s0x94d9565bc704b90d:0xac097ab0dd4a136d!8m2!3d-26.0771129!4d-48.6115588",
+        "lat": -26.077094,
+        "lon": -48.611548
+    },
+    {
         "name": "Universo Pet",
         "url": "https://www.google.com/maps/place/Universo+Pet/@-25.9208335,-48.5802678,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbfbd5ee65fd35:0xa645c4ca78194e80!8m2!3d-25.9208383!4d-48.5780737",
         "lat": -25.894052,
