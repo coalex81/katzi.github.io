@@ -360,6 +360,12 @@ data = [
         "lon": -48.854582
     },
     {
+        "name": "Costa Produtos Agropecuários",
+        "url": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Costa/@-26.0355191,-48.8580379,17z/data=!3m1!4b1!4m5!3m4!1s0x94dc04943969f837:0x2005d6ad08ea6be1!8m2!3d-26.0355191!4d-48.8564865",
+        "lat": -26.035509,
+        "lon": -48.856488
+    },
+    {
         "name": "Animal House",
         "url": "https://www.google.com/maps/place/ANIMAL+HOUSE/@-26.1149455,-48.6022402,17z/data=!4m5!3m4!1s0x94d956d4408b9d7f:0x625aaf7e59914a3a!8m2!3d-26.1149287!4d-48.6023875",
         "lat": -26.114897,
