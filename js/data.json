@@ -324,6 +324,12 @@ data = [
         "lon": -49.272864
     },
     {
+        "name": "Holanda Pet Shop & Agropecuária",
+        "url": "https://www.google.com/maps/place/R.+Holanda,+1993+-+Bacacheri,+Curitiba+-+PR,+82540-040/@-25.3911296,-49.2581389,18z/data=!3m1!4b1!4m5!3m4!1s0x94dce693d0429527:0xe7d3c84c6c4008c9!8m2!3d-25.3911296!4d-49.2571616",
+        "lat": -25.391120,
+        "lon": -49.257160
+    },
+    {
         "name": "Avipec - Pinheirinho",
         "url": "https://www.google.com/maps/place/Avipec+Pinheirinho/@-25.5256099,-49.2998895,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcfc91bacbe66f:0xef0d56c4a653e196!8m2!3d-25.5256099!4d-49.2976954",
         "lat": -25.525581,
@@ -334,6 +340,12 @@ data = [
         "url": "https://www.google.com/maps/place/Avipec+S%C3%A3o+Jos%C3%A9+Dos+Pinhais/@-25.5443156,-49.1926406,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcf76a866f7da7:0x4f67ada692946a2c!8m2!3d-25.5443156!4d-49.1904465",
         "lat": -25.544306,
         "lon": -49.190436
+    },
+    {
+        "name": "Vip Pet Shop",
+        "url": "https://www.google.com/maps/place/Vip+Pet+Shop/@-25.5447435,-49.2040795,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcf75549618e89:0x680b639f6f4def48!8m2!3d-25.5447435!4d-49.2018854",
+        "lat": -25.544724,
+        "lon": -49.201885
     },
     {
         "name": "Espaço do Bicho",
