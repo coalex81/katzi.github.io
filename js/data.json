@@ -330,6 +330,18 @@ data = [
         "lon": -49.257160
     },
     {
+        "name": "Rei dos Animais",
+        "url": "https://www.google.com/maps/place/Rei+dos+Animais/@-25.4867521,-49.2949069,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce3738549ac49:0xb364eaf958e994f9!8m2!3d-25.4867521!4d-49.2927128",
+        "lat": -25.486742,
+        "lon": -49.292702
+    },
+    {
+        "name": "Outpets",
+        "url": "https://www.google.com/maps/place/Outpets/@-25.3907142,-49.2404312,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce71a2eb4e76f:0xdc14433c2bf454d5!8m2!3d-25.3907142!4d-49.2382371",
+        "lat": -25.390675,
+        "lon": -49.238237
+    },
+    {
         "name": "Avipec - Pinheirinho",
         "url": "https://www.google.com/maps/place/Avipec+Pinheirinho/@-25.5256099,-49.2998895,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcfc91bacbe66f:0xef0d56c4a653e196!8m2!3d-25.5256099!4d-49.2976954",
         "lat": -25.525581,
