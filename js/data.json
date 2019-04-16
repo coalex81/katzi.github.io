@@ -450,6 +450,12 @@ data = [
         "lon": -48.830446
     },
     {
+        "name": "Agromania Concessionária STIHL",
+        "url": "https://www.google.com/maps/place/Agromania+Concession%C3%A1ria+STIHL/@-25.4842,-48.8304639,17z/data=!3m1!4b1!4m5!3m4!1s0x94dc87a17ea42763:0xe818114ee2546262!8m2!3d-25.4842!4d-48.8282698",
+        "lat": -25.484171,
+        "lon": -48.828259
+    },
+    {
         "name": "Agro Aviário Praia de Leste",
         "url": "https://www.google.com/maps/place/Aviario+Praia+De+Leste/@-25.6979904,-48.4782951,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbeb59b28d1c8d:0xdc2abc15681e5ba2!8m2!3d-25.6979953!4d-48.476101",
         "lat": -25.697995,
