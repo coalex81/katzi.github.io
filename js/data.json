@@ -498,6 +498,12 @@ data = [
         "lon": -48.438657
     },
     {
+        "name": "Aviário Tabuleiro",
+        "url": "https://www.google.com/maps/place/Avi%C3%A1rio+Tabuleiro/@-25.6526405,-48.449708,17z/data=!3m1!4b1!4m5!3m4!1s0x94db94e60b4a3997:0x3099dfe8621c9620!8m2!3d-25.6526405!4d-48.4475139",
+        "lat": -25.652621,
+        "lon": -48.447503
+    },
+    {
         "name": "Pet-shop Nutrimax",
         "url": "https://www.google.com/maps/place/Pet-shop+Nutrimax/@-25.5221959,-48.5175754,17z/data=!3m1!4b1!4m5!3m4!1s0x94db9a5f3a9bc891:0x668c8d05f3db89a5!8m2!3d-25.5221959!4d-48.5153813",
         "lat": -25.522188,
