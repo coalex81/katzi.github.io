@@ -324,6 +324,12 @@ data = [
         "lon": -49.272864
     },
     {
+        "name": "Pet Happy",
+        "url": "https://www.google.com/maps/place/Pet+Happy/@-25.4184281,-49.2661987,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce41801c6e7bf:0x5d1205b7a278986c!8m2!3d-25.4184281!4d-49.2640046",
+        "lat": -25.418409,
+        "lon": -49.263994
+    },
+    {
         "name": "Holanda Pet Shop & Agropecuária",
         "url": "https://www.google.com/maps/place/R.+Holanda,+1993+-+Bacacheri,+Curitiba+-+PR,+82540-040/@-25.3911296,-49.2581389,18z/data=!3m1!4b1!4m5!3m4!1s0x94dce693d0429527:0xe7d3c84c6c4008c9!8m2!3d-25.3911296!4d-49.2571616",
         "lat": -25.391120,
