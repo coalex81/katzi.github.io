@@ -330,6 +330,12 @@ data = [
         "lon": -49.257160
     },
     {
+        "name": "Rochansul PetShop",
+        "url": "https://www.google.com/maps/place/Rochansul+PetShop/@-25.4374421,-49.2236311,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce5748d89e8f5:0x2f3c4843f8479915!8m2!3d-25.4374421!4d-49.221437",
+        "lat": -25.437432,
+        "lon": -49.221426
+    },
+    {
         "name": "Rei dos Animais",
         "url": "https://www.google.com/maps/place/Rei+dos+Animais/@-25.4867521,-49.2949069,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce3738549ac49:0xb364eaf958e994f9!8m2!3d-25.4867521!4d-49.2927128",
         "lat": -25.486742,
