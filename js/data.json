@@ -372,6 +372,12 @@ data = [
         "lon": -49.201885
     },
     {
+        "name": "Pet Shop MM",
+        "url": "https://www.google.com/maps/place/Pet+Shop+MM/@-25.510181,-49.1777051,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcf0eee7e45f5b:0xe2f9e569a3c407fb!8m2!3d-25.510181!4d-49.175511",
+        "lat": -25.510162,
+        "lon": -49.175500
+    },
+    {
         "name": "Espaço do Bicho",
         "url": "https://www.google.com/maps/place/ESPA%C3%87O+DO+BICHO/@-25.4385931,-49.1914687,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcef938fcdbc81:0x1df95b0e1a06c036!8m2!3d-25.4385931!4d-49.1892746",
         "lat": -25.438574,
