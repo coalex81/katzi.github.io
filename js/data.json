@@ -354,6 +354,18 @@ data = [
         "lon": -49.238237
     },
     {
+        "name": "Royal Pet",
+        "url": "https://www.google.com/maps/place/R.+Prof.+Jo%C3%A3o+Soares+Barcelos,+2099+-+Boqueir%C3%A3o,+Curitiba+-+PR,+81670-080/@-25.491657,-49.2512081,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcfb2f560faec1:0x76185998d2e8c814!8m2!3d-25.491657!4d-49.249014",
+        "lat": -25.491647,
+        "lon": -49.249003
+    },
+    {
+        "name": "Gato Mia Pet Shop",
+        "url": "https://www.google.com/maps/place/Gato+Mia+Pet+Shop/@-25.5181975,-49.2790117,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcfb64a304ca2f:0xe423b5f68cb1c44b!8m2!3d-25.5181975!4d-49.2768176",
+        "lat": -25.518188,
+        "lon": -49.276818
+    },
+    {
         "name": "Avipec - Pinheirinho",
         "url": "https://www.google.com/maps/place/Avipec+Pinheirinho/@-25.5256099,-49.2998895,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcfc91bacbe66f:0xef0d56c4a653e196!8m2!3d-25.5256099!4d-49.2976954",
         "lat": -25.525581,
