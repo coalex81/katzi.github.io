@@ -396,6 +396,12 @@ data = [
         "lon": -49.189264
     },
     {
+        "name": "Belo Trato Pet Shop",
+        "url": "https://www.google.com/maps/place/Belo+Trato+Pet+Shop/@-25.4419835,-49.1750351,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcefc5ff233e6d:0x14bb5af51673fcca!8m2!3d-25.4419835!4d-49.172841",
+        "lat": -25.441964,
+        "lon": -49.172841
+    },
+    {
         "name": "Casa do Agricultor",
         "url": "https://www.google.com/maps/place/Casa+do+Agr%C3%ADcultor/@-26.0274063,-48.8567866,17z/data=!3m1!4b1!4m5!3m4!1s0x94dc04ec7494dfd9:0x21bc1eb37d0ee24f!8m2!3d-26.0274063!4d-48.8545925",
         "lat": -26.027397,
