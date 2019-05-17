@@ -462,6 +462,12 @@ data = [
         "lon": -48.576033
     },
     {
+        "name": "VETIS Clínica Veterinária",
+        "url": "https://www.google.com/maps/place/VETIS+Clinica+Veterin%C3%A1ria/@-25.8840354,-48.5815895,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbfa98b9aa9b1d:0xabe8a2e74274c059!8m2!3d-25.8840354!4d-48.5793954",
+        "lat": -25.884026,
+        "lon": -48.579395
+    },
+    {
         "name": "AgroPetMaq",
         "url": "https://www.google.com/maps/place/AgroPetMaq/@-25.8102637,-48.5407906,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbee3d27638bd9:0xe4c0ac20da986d47!8m2!3d-25.8102685!4d-48.5385965",
         "lat": -25.810267,
