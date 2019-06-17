@@ -378,6 +378,12 @@ data = [
         "lon": -49.224632
     },
     {
+        "name": "Curitiba Pet Store",
+        "url": "https://www.google.com/maps/place/Curitiba+Pet+Store/@-25.4399757,-49.3456035,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce2211583915f:0xdb3e8a2ed449210d!8m2!3d-25.4399757!4d-49.3434094",
+        "lat": -25.439966,
+        "lon": -49.343409
+    },
+    {
         "name": "Avipec - Pinheirinho",
         "url": "https://www.google.com/maps/place/Avipec+Pinheirinho/@-25.5256099,-49.2998895,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcfc91bacbe66f:0xef0d56c4a653e196!8m2!3d-25.5256099!4d-49.2976954",
         "lat": -25.525581,
