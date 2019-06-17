@@ -108,10 +108,16 @@ data = [
         "lon": -49.294465
     },
     {
-        "name": "Armazém da Ração",
-        "url": "https://www.google.com/maps/place/Armaz%C3%A9m+da+Ra%C3%A7%C3%A3o/@-25.4350732,-49.2463043,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce453482fe6f7:0xee9b9f23ce9bb395!8m2!3d-25.4350732!4d-49.2441102",
+        "name": "Turma do Banho",
+        "url": "https://www.google.com/maps/place/Turma+do+Banho+Cristo+Rei/@-25.4350844,-49.2462877,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce4534833e121:0xfb1420526a0ba977!8m2!3d-25.4350844!4d-49.2440936",
         "lat": -25.435054,
         "lon": -49.244110
+    },
+    {
+        "name": "Armazém da Ração",
+        "url": "https://www.google.com/maps/place/Rua+Professor+Manoel+de+Abreu,+294+-+Port%C3%A3o,+Curitiba+-+PR,+81070-180/@-25.4784219,-49.3063821,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce36ad5954a91:0xe7be5261f87c23ca!8m2!3d-25.4784219!4d-49.304188",
+        "lat": -25.478402,
+        "lon": -49.304188
     },
     {
         "name": "Empório dos Bichos",
