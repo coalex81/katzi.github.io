@@ -390,6 +390,18 @@ data = [
         "lon": -49.259315
     },
     {
+        "name": "Pet Hauer Pet Shop",
+        "url": "https://www.google.com/maps/place/Pet+Hauer+Pet+Shop/@-25.485932,-49.2476761,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcfb2988d8cbeb:0xa984e4165bebebad!8m2!3d-25.485932!4d-49.245482",
+        "lat": -25.485913,
+        "lon": -49.245482
+    },
+    {
+        "name": "Lua Pet Shop",
+        "url": "https://www.google.com/maps/place/Lua+Pet+Shop/@-25.482841,-49.3376884,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce2ef8d9980d7:0x63df6a464af38dc!8m2!3d-25.482841!4d-49.3354943",
+        "lat": -25.482831,
+        "lon": -49.335484
+    },
+    {
         "name": "Avipec - Pinheirinho",
         "url": "https://www.google.com/maps/place/Avipec+Pinheirinho/@-25.5256099,-49.2998895,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcfc91bacbe66f:0xef0d56c4a653e196!8m2!3d-25.5256099!4d-49.2976954",
         "lat": -25.525581,
