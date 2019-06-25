@@ -402,6 +402,12 @@ data = [
         "lon": -49.335484
     },
     {
+        "name": "Paraíso Animal",
+        "url": "https://www.google.com/maps/place/Para%C3%ADso+Animal+Pet+Store/@-25.5117103,-49.2981441,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcfcbb6427ffdf:0x94d891bd3b26f3f9!8m2!3d-25.5117103!4d-49.29595",
+        "lat": -25.511681,
+        "lon": -49.295939
+    },
+    {
         "name": "Avipec - Pinheirinho",
         "url": "https://www.google.com/maps/place/Avipec+Pinheirinho/@-25.5256099,-49.2998895,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcfc91bacbe66f:0xef0d56c4a653e196!8m2!3d-25.5256099!4d-49.2976954",
         "lat": -25.525581,
