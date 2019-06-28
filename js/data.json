@@ -408,6 +408,30 @@ data = [
         "lon": -49.295939
     },
     {
+        "name": "Pet Shop Souza",
+        "url": "https://www.google.com/maps/place/Pet+Shop+Souza/@-25.4365783,-49.35076,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce1f5ec9e71ef:0x422ae7372935121d!8m2!3d-25.4365783!4d-49.3485659",
+        "lat": -25.436569,
+        "lon": -49.348566
+    },
+    {
+        "name": "Pet Shop Casa do Produtor",
+        "url": "https://www.google.com/maps/place/Pet+Shop+Casa+do+Produtor/@-25.443222,-49.2656061,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce460a673aae3:0x44452d50d8fae647!8m2!3d-25.443222!4d-49.263412",
+        "lat": -25.443203,
+        "lon": -49.263401
+    },
+    {
+        "name": "Pet Shop Casa do Produtor",
+        "url": "https://www.google.com/maps/place/Av.+N.+Sra.+Aparecida,+661+-+Semin%C3%A1rio,+Curitiba+-+PR,+80310-100/@-25.4496838,-49.3072137,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce3bd7a7dc617:0x7feaaa6441999ffd!8m2!3d-25.4496838!4d-49.3050196",
+        "lat": -25.449655,
+        "lon": -49.305009
+    },
+    {
+        "name": "Parada Pet (28 a 30 de Julho)",
+        "url": "https://www.google.com/maps/place/Museu+Oscar+Niemeyer/@-25.4101027,-49.2693873,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce41fa86f6915:0xf5f24c5f00323bee!8m2!3d-25.4101027!4d-49.2671932",
+        "lat": -25.410093,
+        "lon": -49.268300
+    },
+    {
         "name": "Avipec - Pinheirinho",
         "url": "https://www.google.com/maps/place/Avipec+Pinheirinho/@-25.5256099,-49.2998895,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcfc91bacbe66f:0xef0d56c4a653e196!8m2!3d-25.5256099!4d-49.2976954",
         "lat": -25.525581,
