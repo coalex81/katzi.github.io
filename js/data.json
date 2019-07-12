@@ -426,12 +426,6 @@ data = [
         "lon": -49.305009
     },
     {
-        "name": "Parada Pet (28 a 30 de Julho)",
-        "url": "https://www.google.com/maps/place/Museu+Oscar+Niemeyer/@-25.4101027,-49.2693873,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce41fa86f6915:0xf5f24c5f00323bee!8m2!3d-25.4101027!4d-49.2671932",
-        "lat": -25.410093,
-        "lon": -49.268300
-    },
-    {
         "name": "Avipec - Pinheirinho",
         "url": "https://www.google.com/maps/place/Avipec+Pinheirinho/@-25.5256099,-49.2998895,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcfc91bacbe66f:0xef0d56c4a653e196!8m2!3d-25.5256099!4d-49.2976954",
         "lat": -25.525581,
@@ -984,6 +978,12 @@ data = [
         "lon": -48.695198
     },
     {
+        "name": "Adharas Pet Shop e Clínica",
+        "url": "https://www.google.com/maps/place/adharas+pet+shop+clinica/@-26.9157395,-48.6555206,17z/data=!4m12!1m6!3m5!1s0x94d8cbf44ed1c593:0x352dec8dc857500a!2sadharas+pet+shop+clinica!8m2!3d-26.9157403!4d-48.6555203!3m4!1s0x94d8cbf44ed1c593:0x352dec8dc857500a!8m2!3d-26.9157403!4d-48.6555203",
+        "lat": -26.915720,
+        "lon": -48.655515
+    },
+    {
         "name": "Foster Pet Place",
         "url": "https://www.google.com/maps/place/Foster+Pet+Place/@-26.9206643,-49.0721323,17z/data=!3m1!4b1!4m5!3m4!1s0x94df18c31d5489cd:0x97942b786aae6b6c!8m2!3d-26.9206643!4d-49.0699382",
         "lat": -26.920626,
@@ -994,5 +994,11 @@ data = [
         "url": "https://www.google.com/maps/place/Encanto+Animal+Pet+Shop/@-26.9166082,-49.0663498,17z/data=!3m1!4b1!4m5!3m4!1s0x94df18c0d70865a5:0x1ecfede43c1cf458!8m2!3d-26.9166082!4d-49.0641557",
         "lat": -26.916599,
         "lon": -49.064145
+    },
+    {
+        "name": "Pet Glam Premium Pet Shop",
+        "url": "https://www.google.com/maps/place/Pet+Glam+Premium+Pet+Shop/@-26.9111953,-49.0945838,17z/data=!3m1!4b1!4m5!3m4!1s0x94df1f3f2e2bbd19:0xf3f932a98b7818f3!8m2!3d-26.9111953!4d-49.0923897",
+        "lat": -26.911176,
+        "lon": -49.092379
     },
 ]
