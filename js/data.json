@@ -426,6 +426,12 @@ data = [
         "lon": -49.305009
     },
     {
+        "name": "Aviário Santa Fé",
+        "url": "https://www.google.com/maps/place/Avi%C3%A1rio+Santa+F%C3%A9/@-25.4688652,-49.2057736,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcfaaa868bd091:0xd7bce924a1b6dd2!8m2!3d-25.4688652!4d-49.2035795",
+        "lat": -25.468836,
+        "lon": -49.203580
+    },
+    {
         "name": "Avipec - Pinheirinho",
         "url": "https://www.google.com/maps/place/Avipec+Pinheirinho/@-25.5256099,-49.2998895,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcfc91bacbe66f:0xef0d56c4a653e196!8m2!3d-25.5256099!4d-49.2976954",
         "lat": -25.525581,
@@ -436,6 +442,12 @@ data = [
         "url": "https://www.google.com/maps/place/Avipec+S%C3%A3o+Jos%C3%A9+Dos+Pinhais/@-25.5443156,-49.1926406,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcf76a866f7da7:0x4f67ada692946a2c!8m2!3d-25.5443156!4d-49.1904465",
         "lat": -25.544306,
         "lon": -49.190436
+    },
+    {
+        "name": "Agropecuária Empório Rural",
+        "url": "https://www.google.com/maps/place/Agropecuaria+Emporio+Rural/@-25.5629579,-49.2094689,17z/data=!4m12!1m6!3m5!1s0x94dcf9e6ea63c1c3:0x8e6dcaf6be17c5c1!2sAgropecuaria+Emporio+Rural!8m2!3d-25.5629579!4d-49.2094689!3m4!1s0x94dcf9e6ea63c1c3:0x8e6dcaf6be17c5c1!8m2!3d-25.5629579!4d-49.2094689",
+        "lat": -25.562939,
+        "lon": -49.209453
     },
     {
         "name": "Vip Pet Shop",
