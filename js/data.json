@@ -426,6 +426,12 @@ data = [
         "lon": -49.305009
     },
     {
+        "name": "Pet Batel",
+        "url": "https://www.google.com/maps/place/Pet+Batel/@-25.4464242,-49.2924893,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce38f55d88505:0x721a30b2369de67f!8m2!3d-25.4464242!4d-49.2902952",
+        "lat": -25.446405,
+        "lon": -49.290295
+    },
+    {
         "name": "Aviário Santa Fé",
         "url": "https://www.google.com/maps/place/Avi%C3%A1rio+Santa+F%C3%A9/@-25.4688652,-49.2057736,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcfaaa868bd091:0xd7bce924a1b6dd2!8m2!3d-25.4688652!4d-49.2035795",
         "lat": -25.468836,
@@ -472,6 +478,12 @@ data = [
         "url": "https://www.google.com/maps/place/Belo+Trato+Pet+Shop/@-25.4419835,-49.1750351,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcefc5ff233e6d:0x14bb5af51673fcca!8m2!3d-25.4419835!4d-49.172841",
         "lat": -25.441964,
         "lon": -49.172841
+    },
+    {
+        "name": "Casa das Rações",
+        "url": "https://www.google.com/maps/place/Casa+das+Ra%C3%A7%C3%B5es/@-25.4346125,-49.1773901,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcefbdc923034d:0x5951f644a468c652!8m2!3d-25.4346125!4d-49.175196",
+        "lat": -25.434593,
+        "lon": -49.175185
     },
     {
         "name": "Casa do Agricultor",
