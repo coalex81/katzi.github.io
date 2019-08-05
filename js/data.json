@@ -696,6 +696,18 @@ data = [
         "lon": -48.713560
     },
     {
+        "name": "Tóti Loja Pet",
+        "url": "https://www.google.com/maps/place/T%C3%B3ti+Loja+Pet/@-26.456512,-49.1086461,17z/data=!3m1!4b1!4m5!3m4!1s0x94de9419825827bb:0x5d1a567f93f4dbb2!8m2!3d-26.456512!4d-49.106452",
+        "lat": -26.456483,
+        "lon": -49.106452
+    },
+    {
+        "name": "Pet Shop Adriano",
+        "url": "https://www.google.com/maps/place/Pet+Shop+Adriano/@-26.4892815,-49.0581723,17z/data=!3m1!4b1!4m5!3m4!1s0x94de956a3befa7ed:0x46da0967cd331c21!8m2!3d-26.4892815!4d-49.0559782",
+        "lat": -26.489272,
+        "lon": -49.055967
+    },
+    {
         "name": "Peter Shop Rações",
         "url": "https://www.google.com/maps/place/Peter+Shop+Ra%C3%A7%C3%B5es/@-26.2737288,-48.8839359,17z/data=!3m1!4b1!4m5!3m4!1s0x94dea5607638784d:0x66b5056308589ac8!8m2!3d-26.2737288!4d-48.8817418",
         "lat": -26.273710,
