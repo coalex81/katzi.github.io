@@ -708,6 +708,30 @@ data = [
         "lon": -49.055967
     },
     {
+        "name": "4 Patas Estética Animal",
+        "url": "https://www.google.com/maps/place/4+Patas+Est%C3%A9tica+Animal/@-26.3062001,-48.8515607,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb048ac4f42e3:0x6888fb1bcd2b8cf8!8m2!3d-26.3062001!4d-48.8493666",
+        "lat": -26.306190,
+        "lon": -48.849367
+    },
+    {
+        "name": "Clinivet Milu - Clínica Veterinária e Pet Shop",
+        "url": "https://www.google.com/maps/place/Clinivet+Milu+-+Cl%C3%ADnica+Veterinaria+e+Pet+Shop/@-26.2625537,-48.81346,17z/data=!3m1!4b1!4m5!3m4!1s0x94deae1b13aeb649:0x251857d5834b0f3e!8m2!3d-26.2625537!4d-48.8112659",
+        "lat": -26.262544,
+        "lon": -48.811266
+    },
+    {
+        "name": "Duhan Tamy's",
+        "url": "https://www.google.com/maps/place/Duhan+Tamy's/@-26.273026,-48.8283751,17z/data=!3m1!4b1!4m5!3m4!1s0x94deae2715346483:0xa7abf786ba3f0381!8m2!3d-26.273026!4d-48.826181",
+        "lat": -26.273016,
+        "lon": -48.826170
+    },
+    {
+        "name": "Clínica Veterinária Bicho de Estimação",
+        "url": "https://www.google.com/maps/place/Cl%C3%ADnica+Veterinaria+Bicho+de+Estima%C3%A7%C3%A3o/@-26.2746629,-48.8652912,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb01987afed69:0xe6ffbc25734234f4!8m2!3d-26.2746629!4d-48.8630971",
+        "lat": -26.274644,
+        "lon": -48.863097
+    },
+    {
         "name": "Peter Shop Rações",
         "url": "https://www.google.com/maps/place/Peter+Shop+Ra%C3%A7%C3%B5es/@-26.2737288,-48.8839359,17z/data=!3m1!4b1!4m5!3m4!1s0x94dea5607638784d:0x66b5056308589ac8!8m2!3d-26.2737288!4d-48.8817418",
         "lat": -26.273710,
