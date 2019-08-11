@@ -684,6 +684,24 @@ data = [
         "lon": -48.556289
     },
     {
+        "name": "Litoagro",
+        "url": "https://www.google.com/maps/place/Litoagro/@-25.5198952,-48.5379742,17z/data=!3m1!4b1!4m5!3m4!1s0x94db9ae6fbb5de99:0x929522c89164559!8m2!3d-25.5198952!4d-48.5357801",
+        "lat": -25.519876,
+        "lon": -48.535759
+    },
+    {
+        "name": "Aviário Campo Verde",
+        "url": "https://www.google.com/maps/place/Avi%C3%A1rio+Campo+Verde/@-25.5629114,-48.566536,17z/data=!3m1!4b1!4m5!3m4!1s0x94db8ff8c80fe127:0x447f77177a9fd6bc!8m2!3d-25.5629114!4d-48.5643419",
+        "lat": -25.562882,
+        "lon": -48.564342
+    },
+    {
+        "name": "Aviário Campo Verde - Filial",
+        "url": "https://www.google.com/maps/place/R.+Subtenente+Onofre+Moreira+da+Rocha,+64-116+-+Vila+Garcia,+Paranagu%C3%A1+-+PR/@-25.5788783,-48.5748553,17.67z/data=!4m8!1m2!2m1!1saviario!3m4!1s0x94db8fee8d9b9b09:0xf9788f499adf9fbd!8m2!3d-25.5785656!4d-48.5731844",
+        "lat": -25.578751,
+        "lon": -48.573433
+    },
+    {
         "name": "Aviário Terra Fértil",
         "url": "https://www.google.com/maps/place/Terra+F%C3%A9rtil+Antonina/@-25.4349063,-48.7331882,17z/data=!3m1!4b1!4m5!3m4!1s0x94db7fd9b6393ef1:0xb9f38dc20d973ce2!8m2!3d-25.4349063!4d-48.7309995",
         "lat": -25.434877,
@@ -694,6 +712,12 @@ data = [
         "url": "https://www.google.com/maps/place/Avi%C3%A1rio+Terra+F%C3%A9rtil+Centro/@-25.4307814,-48.7157433,17z/data=!3m1!4b1!4m5!3m4!1s0x94db7fdbd22f353d:0x53a547a2b5a54399!8m2!3d-25.4307814!4d-48.7135492",
         "lat": -25.430762,
         "lon": -48.713560
+    },
+    {
+        "name": "Aviário da Família",
+        "url": "https://www.google.com/maps/place/Aviario+Da+Familia/@-25.4349787,-48.7142855,17z/data=!3m1!4b1!4m5!3m4!1s0x94db7fddadad7b4d:0xd4678077d5891816!8m2!3d-25.4349787!4d-48.7120914",
+        "lat": -25.434959,
+        "lon": -48.712091
     },
     {
         "name": "Tóti Loja Pet",
