@@ -1085,4 +1085,16 @@ data = [
         "lat": -26.911176,
         "lon": -49.092379
     },
+    {
+        "name": "Agropet Barão",
+        "url": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Tradi%C3%A7%C3%A3o+Matriz/@-27.2199108,-49.6507136,17z/data=!3m1!4b1!4m5!3m4!1s0x94dfb9aae50328ab:0x9be54c68486caa73!8m2!3d-27.2199108!4d-49.6485195",
+        "lat": -27.219892,
+        "lon": -49.648520
+    },
+    {
+        "name": "Pet Shop Boutikão",
+        "url": "https://www.google.com/maps/place/Pet+Shop+Boutikao/@-27.2129692,-49.6380791,17z/data=!3m1!4b1!4m5!3m4!1s0x94dfb9a699d47fdd:0x1a072345e14d78f1!8m2!3d-27.2129692!4d-49.635885",
+        "lat": -27.212941,
+        "lon": -49.635874
+    },
 ]
