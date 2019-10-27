@@ -486,6 +486,12 @@ data = [
         "lon": -49.175185
     },
     {
+        "name": "Agrobarras",
+        "url": "https://www.google.com/maps/place/Agrobarras+Com%C3%A9rcio+de+Produtos+Agropecu%C3%A1rios+Ltda/@-25.3696123,-49.0784529,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcecec38738f9d:0x878c17e655c40eb2!8m2!3d-25.3696123!4d-49.0762588",
+        "lat": -25.369573,
+        "lon": -49.076270
+    },
+    {
         "name": "Casa do Agricultor",
         "url": "https://www.google.com/maps/place/Casa+do+Agr%C3%ADcultor/@-26.0274063,-48.8567866,17z/data=!3m1!4b1!4m5!3m4!1s0x94dc04ec7494dfd9:0x21bc1eb37d0ee24f!8m2!3d-26.0274063!4d-48.8545925",
         "lat": -26.027397,
@@ -508,12 +514,6 @@ data = [
         "url": "https://www.google.com/maps/place/R.+Frontin,+181,+Itapo%C3%A1+-+SC,+89249-000/@-26.0771129,-48.6137529,17z/data=!3m1!4b1!4m5!3m4!1s0x94d9565bc704b90d:0xac097ab0dd4a136d!8m2!3d-26.0771129!4d-48.6115588",
         "lat": -26.077094,
         "lon": -48.611548
-    },
-    {
-        "name": "Universo Pet",
-        "url": "https://www.google.com/maps/place/Universo+Pet/@-25.9208335,-48.5802678,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbfbd5ee65fd35:0xa645c4ca78194e80!8m2!3d-25.9208383!4d-48.5780737",
-        "lat": -25.894052,
-        "lon": -48.565130
     },
     {
         "name": "Pet Shop Mundo Animal",
