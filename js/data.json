@@ -1038,6 +1038,12 @@ data = [
         "lon": -48.635864
     },
     {
+        "name": "Comercial Pereira",
+        "url": "https://www.google.com/maps/place/Comercial+Pereira/@-27.0244717,-48.6556599,17z/data=!3m1!4b1!4m5!3m4!1s0x94d8b5cc13c82e27:0xcabd5db19a410041!8m2!3d-27.0244717!4d-48.6534658",
+        "lat": -27.024462,
+        "lon": -48.653455
+    },
+    {
         "name": "Dog Shop",
         "url": "https://www.google.com/maps/place/Dog+Shop/@-26.9985134,-48.645761,16.54z/data=!4m8!1m2!2m1!1sdog+shop+!3m4!1s0x94d8b5e4f213cfed:0xe66b27fe217b552c!8m2!3d-26.9978286!4d-48.6450165",
         "lat": -26.997825,
