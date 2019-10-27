@@ -408,6 +408,12 @@ data = [
         "lon": -49.295939
     },
     {
+        "name": "Pet Shop Mon Petit",
+        "url": "https://www.google.com/maps/place/Pet+Shop+Mon+Petit/@-25.5039671,-49.2954584,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcfcae34a48757:0xf8ab74552a922542!8m2!3d-25.5039671!4d-49.2932643",
+        "lat": -25.503967,
+        "lon": -49.293254
+    },
+    {
         "name": "Pet Shop Souza",
         "url": "https://www.google.com/maps/place/Pet+Shop+Souza/@-25.4365783,-49.35076,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce1f5ec9e71ef:0x422ae7372935121d!8m2!3d-25.4365783!4d-49.3485659",
         "lat": -25.436569,
