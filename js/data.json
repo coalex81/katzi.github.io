@@ -492,6 +492,18 @@ data = [
         "lon": -49.076270
     },
     {
+        "name": "Agropecuária Fernandes",
+        "url": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Fernandes/@-25.377962,-49.3601411,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce0190f4d3aff:0xf2b04fc27e3fdc7c!8m2!3d-25.377962!4d-49.357947",
+        "lat": -25.377952,
+        "lon": -49.357947
+    },
+    {
+        "name": "Aviário e Pet Shop Favoreto",
+        "url": "https://www.google.com/maps/place/AVI%C3%81RIO+E+PET+SHOP+FAVORETO/@-25.3731446,-49.4253671,17z/data=!3m1!4b1!4m5!3m4!1s0x94dd21c32c3572f3:0xfb4ab7e5f6f4da72!8m2!3d-25.3731446!4d-49.423173",
+        "lat": -25.373125,
+        "lon": -49.423173
+    },
+    {
         "name": "Casa do Agricultor",
         "url": "https://www.google.com/maps/place/Casa+do+Agr%C3%ADcultor/@-26.0274063,-48.8567866,17z/data=!3m1!4b1!4m5!3m4!1s0x94dc04ec7494dfd9:0x21bc1eb37d0ee24f!8m2!3d-26.0274063!4d-48.8545925",
         "lat": -26.027397,
