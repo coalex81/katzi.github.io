@@ -510,6 +510,12 @@ data = [
         "lon": -49.423173
     },
     {
+        "name": "Agronano",
+        "url": "https://www.google.com/maps/place/Agronano/@-25.4581236,-49.5477139,17z/data=!3m1!4b1!4m5!3m4!1s0x94dd176b1b462215:0xf4fb5b389804c55!8m2!3d-25.4581236!4d-49.5455198",
+        "lat": -25.458124,
+        "lon": -49.545520
+    },
+    {
         "name": "Casa do Agricultor",
         "url": "https://www.google.com/maps/place/Casa+do+Agr%C3%ADcultor/@-26.0274063,-48.8567866,17z/data=!3m1!4b1!4m5!3m4!1s0x94dc04ec7494dfd9:0x21bc1eb37d0ee24f!8m2!3d-26.0274063!4d-48.8545925",
         "lat": -26.027397,
