@@ -318,12 +318,6 @@ data = [
         "lon": -49.339389
     },
     {
-        "name": "Central Pet",
-        "url": "https://www.google.com/maps/place/Central+Pet/@-25.4295881,-49.2634232,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce440fef19d31:0xe6c330631959f558!8m2!3d-25.4295881!4d-49.2612291",
-        "lat": -25.429559,
-        "lon": -49.261218
-    },
-    {
         "name": "Aviário Recanto dos Pássaros",
         "url": "https://www.google.com/maps/place/Avi%C3%A1rio+Recanto+dos+P%C3%A1ssaros/@-25.4289608,-49.2750686,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce412650dfe35:0x7335bb1247b6721c!8m2!3d-25.4289608!4d-49.2728745",
         "lat": -25.428941,
