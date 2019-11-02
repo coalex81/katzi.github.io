@@ -384,10 +384,28 @@ data = [
         "lon": -49.259315
     },
     {
+        "name": "São Chico Animal Center",
+        "url": "https://www.google.com/maps/place/S%C3%A3o+Chico+Animal+Center/@-25.4233866,-49.2726644,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce41118b46593:0x9c794151bb35c49d!8m2!3d-25.4233866!4d-49.2704703",
+        "lat": -25.423367,
+        "lon": -49.270481
+    },
+    {
+        "name": "Amigo Bicho Pet Shop",
+        "url": "https://www.google.com/maps/place/Amigo+Bicho+Pet+Shop+e+consult%C3%B3rio+Veterin%C3%A1rio/@-25.460459,-49.30032,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce37641d31db9:0x6d02ae0927a14429!8m2!3d-25.460459!4d-49.2981259",
+        "lat": -25.460440,
+        "lon": -49.298126
+    },
+    {
         "name": "Pet Hauer Pet Shop",
         "url": "https://www.google.com/maps/place/Pet+Hauer+Pet+Shop/@-25.485932,-49.2476761,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcfb2988d8cbeb:0xa984e4165bebebad!8m2!3d-25.485932!4d-49.245482",
         "lat": -25.485913,
         "lon": -49.245482
+    },
+    {
+        "name": "Aviário D'tudo",
+        "url": "https://www.google.com/maps/place/Avi%C3%A1rio+D'tudo/@-25.503596,-49.2743659,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcfbee2dd65903:0x647504604f310aa4!8m2!3d-25.503596!4d-49.2721718",
+        "lat": -25.503567,
+        "lon": -49.272161
     },
     {
         "name": "Lua Pet Shop",
