@@ -1098,6 +1098,24 @@ data = [
         "lon": -48.683298
     },
     {
+        "name": "Agropecuária da Quinta",
+        "url": "https://www.google.com/maps/place/Agropecu%C3%A1ria+da+Quinta/@-26.6128797,-48.6837432,17z/data=!3m1!4b1!4m5!3m4!1s0x94d92b81d2a55671:0x97188dd161fa737b!8m2!3d-26.6128797!4d-48.6815491",
+        "lat": -26.612860,
+        "lon": -48.681538
+    },
+    {
+        "name": "Agropecuária Fransoni",
+        "url": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Fransoni/@-26.7036592,-48.6849229,17z/data=!3m1!4b1!4m5!3m4!1s0x94d8d57697b00a43:0x34f38ab6dec72a2b!8m2!3d-26.7036592!4d-48.6827288",
+        "lat": -26.703650,
+        "lon": -48.682718
+    },
+    {
+        "name": "Litorânea Pet & Pesca Ltda",
+        "url": "https://www.google.com/maps/place/Litor%C3%A2nea+Pet+%26+Pesca+Ltda/@-26.7300334,-48.6851735,17z/data=!3m1!4b1!4m5!3m4!1s0x94ceac36bb2abaaf:0x4a8dbd12ce0a39c3!8m2!3d-26.7300334!4d-48.6829794",
+        "lat": -26.730024,
+        "lon": -48.682969
+    },
+    {
         "name": "Pet Shop Miau",
         "url": "https://www.google.com/maps/place/Pet+Shop+Miau/@-26.9013842,-48.679905,17z/data=!3m1!4b1!4m5!3m4!1s0x94d8cc5fdff8336d:0x4eb291b19320dde2!8m2!3d-26.901389!4d-48.6777109",
         "lat": -26.901351,
