@@ -528,6 +528,12 @@ data = [
         "lon": -49.545520
     },
     {
+        "name": "Pet Shop K8",
+        "url": "https://www.google.com/maps/place/Pet+Shop+K8/@-25.4635356,-49.5279707,17z/data=!3m1!4b1!4m5!3m4!1s0x94dd1947df17d489:0xa0252385b940919b!8m2!3d-25.4635356!4d-49.5257766",
+        "lat": -25.463526,
+        "lon": -49.525777
+    },
+    {
         "name": "Casa do Agricultor",
         "url": "https://www.google.com/maps/place/Casa+do+Agr%C3%ADcultor/@-26.0274063,-48.8567866,17z/data=!3m1!4b1!4m5!3m4!1s0x94dc04ec7494dfd9:0x21bc1eb37d0ee24f!8m2!3d-26.0274063!4d-48.8545925",
         "lat": -26.027397,
