@@ -420,6 +420,18 @@ data = [
         "lon": -49.295939
     },
     {
+        "name": "Vida de Cachorro (Shopping Popular)",
+        "url": "https://www.google.com/maps/place/R.+Andr%C3%A9+Jo%C3%A3o+Gasparin,+170+-+Novo+Mundo,+Curitiba+-+PR,+81020-240/@-25.4920302,-49.2941981,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce3518824532d:0x226d834894e6dcb6!8m2!3d-25.4920302!4d-49.292004",
+        "lat": -25.492001,
+        "lon": -49.291993
+    },
+    {
+        "name": "Aviário e Petshop Amigo dos Bichos",
+        "url": "https://www.google.com/maps/place/Avi%C3%A1rio+e+Petshop+Amigo+dos+Bichos/@-25.5016885,-49.3090092,16z/data=!4m8!1m2!2m1!1spet+shop!3m4!1s0x0:0x777cc850c0aa472b!8m2!3d-25.5017133!4d-49.3044707",
+        "lat": -25.501669,
+        "lon": -49.304449
+    },
+    {
         "name": "Pet Shop Mon Petit",
         "url": "https://www.google.com/maps/place/Pet+Shop+Mon+Petit/@-25.5039671,-49.2954584,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcfcae34a48757:0xf8ab74552a922542!8m2!3d-25.5039671!4d-49.2932643",
         "lat": -25.503967,
