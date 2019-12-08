@@ -1,5 +1,17 @@
 data = [
     {
+        "name": "Dog Gato Clínica Veterinária",
+        "url": "https://www.google.com/maps/place/Dog+Gato+Cl%C3%ADnica+Veterin%C3%A1ria/@-25.4555981,-49.3072312,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce3a20d62f9e9:0x704c166d2d02e7ef!8m2!3d-25.4555981!4d-49.3050371",
+        "lat": -25.455579,
+        "lon": -49.305026
+    },
+    {
+        "name": "Dacovet",
+        "url": "https://www.google.com/maps/place/R.+Jo%C3%A3o+Bettega,+603+-+Port%C3%A3o,+Curitiba+-+PR,+81070-000/@-25.475254,-49.3023207,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce36befcb4e5d:0xa671641aa3e49548!8m2!3d-25.475254!4d-49.3001266",
+        "lat": -25.475225,
+        "lon": -49.300127
+    },
+    {
         "name": "Rhassil",
         "url": "https://www.google.com/maps/place/Rhassil/@-25.3924188,-49.2288047,17z/data=!4m12!1m6!3m5!1s0x94dce67468208523:0xc0f7e8ce56ca6165!2sRhassil!8m2!3d-25.3924237!4d-49.2266106!3m4!1s0x94dce67468208523:0xc0f7e8ce56ca6165!8m2!3d-25.3924237!4d-49.2266106",
         "lat": -25.392421,
