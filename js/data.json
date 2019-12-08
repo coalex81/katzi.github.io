@@ -1116,6 +1116,12 @@ data = [
         "lon": -50.157980
     },
     {
+        "name": "Agropecuária Agroval",
+        "url": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Agroval/@-26.62109,-48.7102131,17z/data=!3m1!4b1!4m5!3m4!1s0x94d92b5876431465:0x1f096d719d1a5174!8m2!3d-26.62109!4d-48.708019",
+        "lat": -26.621071,
+        "lon": -48.708019
+    },
+    {
         "name": "Agropecuária Amaral 2",
         "url": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Amaral+2/@-26.6333354,-48.6855031,17z/data=!3m1!4b1!4m5!3m4!1s0x94d92b0b685902ab:0x30dbf37acdd63f5a!8m2!3d-26.6333354!4d-48.683309",
         "lat": -26.633326,
