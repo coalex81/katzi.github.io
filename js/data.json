@@ -1002,6 +1002,12 @@ data = [
         "lon": -48.868350
     },
     {
+        "name": "Petlandia",
+        "url": "https://www.google.com/maps/place/Petlandia+-+Petshop+e+Cl%C3%ADnica+veterin%C3%A1ria/@-26.270153,-48.8163538,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb1e20e4fbe21:0x9a590e8aa01a89db!8m2!3d-26.270153!4d-48.8141597",
+        "lat": -26.270143,
+        "lon": -48.814160
+    },
+    {
         "name": "Pet Shop Bichinho Sapeca",
         "url": "https://www.google.com/maps/place/R.+dos+Su%C3%AD%C3%A7os,+1998+-+Vila+Nova,+Joinville+-+SC,+89237-613/@-26.2776528,-48.911416,17z/data=!3m1!4b1!4m5!3m4!1s0x94dea510a27c7fdb:0x314fee13f560bd6f!8m2!3d-26.2776528!4d-48.9092219",
         "lat": -26.277643,
