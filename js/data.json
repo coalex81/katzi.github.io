@@ -822,6 +822,18 @@ data = [
         "lon": -49.055967
     },
     {
+        "name": "Reale Pet Shop",
+        "url": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Real+Ltda/@-26.4873167,-49.0832158,17z/data=!3m1!4b1!4m13!1m7!3m6!1s0x94de950290bbffff:0x2ca34d2c08b3ed80!2sR.+Reinoldo+Rau,+380+-+Centro,+Jaragu%C3%A1+do+Sul+-+SC,+89251-600!3b1!8m2!3d-26.4873167!4d-49.0810217!3m4!1s0x94de95028e010115:0xc755af43072f61dc!8m2!3d-26.4873167!4d-49.0810217",
+        "lat": -26.487278,
+        "lon": -49.081022
+    },
+    {
+        "name": "VetVida",
+        "url": "https://www.google.com/maps/place/VetVida/@-26.5147093,-49.1238485,17z/data=!3m1!4b1!4m5!3m4!1s0x94de9590f484d8b7:0xe7e157ac6a7069e!8m2!3d-26.5147093!4d-49.1216544",
+        "lat": -26.514700,
+        "lon": -49.121644
+    },
+    {
         "name": "4 Patas Estética Animal",
         "url": "https://www.google.com/maps/place/4+Patas+Est%C3%A9tica+Animal/@-26.3062001,-48.8515607,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb048ac4f42e3:0x6888fb1bcd2b8cf8!8m2!3d-26.3062001!4d-48.8493666",
         "lat": -26.306190,
