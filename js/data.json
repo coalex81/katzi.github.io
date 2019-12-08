@@ -624,6 +624,12 @@ data = [
         "lon": -48.538596
     },
     {
+        "name": "AgroPetMaq - Caiobá",
+        "url": "https://www.google.com/maps/place/AgroPetMaq+-+Caiob%C3%A1/@-25.8261679,-48.5438581,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbefd9ad28cd09:0x3d4040feb2098d5c!8m2!3d-25.8261679!4d-48.541664",
+        "lat": -25.826129,
+        "lon": -48.541664
+    },
+    {
         "name": "Miados e Latidos Pet Shop",
         "url": "https://www.google.com/maps/place/Miados+e+Latidos+Pet+Shop/@-25.8180464,-48.5412285,17z/data=!3m1!4b1!4m5!3m4!1s0x94dbee3628a8ca95:0x3d81e6939fdec71e!8m2!3d-25.8180512!4d-48.5390344",
         "lat": -25.818048,
