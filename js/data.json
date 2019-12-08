@@ -1194,6 +1194,18 @@ data = [
         "lon": -49.648520
     },
     {
+        "name": "Agropet Avenida",
+        "url": "https://www.google.com/maps/place/Agropet+Avenida/@-27.2103829,-49.6334483,17z/data=!3m1!4b1!4m5!3m4!1s0x94dfb9a23d487971:0x9fdb1835addeb39f!8m2!3d-27.2103829!4d-49.6312542",
+        "lat": -27.210354,
+        "lon": -49.631254
+    },
+    {
+        "name": "Armazém dos Bichos",
+        "url": "https://www.google.com/maps/place/Armaz%C3%A9m+dos+Bichos+Agropecu%C3%A1ria+e+Pet+Shop/@-27.2097437,-49.6318229,17z/data=!3m1!4b1!4m5!3m4!1s0x94dfb998a6700001:0xb00cc00100887eb9!8m2!3d-27.2097437!4d-49.6296288",
+        "lat": -27.209734,
+        "lon": -49.629618
+    },
+    {
         "name": "Pet Shop Boutikão",
         "url": "https://www.google.com/maps/place/Pet+Shop+Boutikao/@-27.2129692,-49.6380791,17z/data=!3m1!4b1!4m5!3m4!1s0x94dfb9a699d47fdd:0x1a072345e14d78f1!8m2!3d-27.2129692!4d-49.635885",
         "lat": -27.212941,
