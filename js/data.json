@@ -594,6 +594,12 @@ data = [
         "lon": -48.605903
     },
     {
+        "name": "Aviário Mister Dog",
+        "url": "https://www.google.com/maps/place/Avi%C3%A1rio+Mister+Dog/@-25.9535062,-48.6004381,17z/data=!3m1!4b1!4m8!1m2!2m1!1zYXZpw6FyaW8!3m4!1s0x94dbfbf364c555dd:0x71d73bbb01e3b897!8m2!3d-25.953511!4d-48.598244",
+        "lat": -25.953501,
+        "lon": -48.598233
+    },
+    {
         "name": "Pet Shop Mundo Animal",
         "url": "https://www.google.com/maps/place/Avi%C3%A1rio+Pet+Shop+Guaratuba+Mundo+Animal/@-25.9001806,-48.567962,19z/data=!4m5!3m4!1s0x94dbfbe2a21818bd:0x6b8760a7b9d23e93!8m2!3d-25.9003538!4d-48.567978",
         "lat": -25.9001806,
@@ -1198,6 +1204,18 @@ data = [
         "url": "https://www.google.com/maps/place/adharas+pet+shop+clinica/@-26.9157395,-48.6555206,17z/data=!4m12!1m6!3m5!1s0x94d8cbf44ed1c593:0x352dec8dc857500a!2sadharas+pet+shop+clinica!8m2!3d-26.9157403!4d-48.6555203!3m4!1s0x94d8cbf44ed1c593:0x352dec8dc857500a!8m2!3d-26.9157403!4d-48.6555203",
         "lat": -26.915720,
         "lon": -48.655515
+    },
+    {
+        "name": "Lirão Pet Shop",
+        "url": "https://www.google.com/maps/place/Lir%C3%A3o+Pet+Shop/@-26.9119632,-48.6646767,17z/data=!3m1!4b1!4m5!3m4!1s0x94d8cc744115f1c5:0x81dfe3d38e6bd8c!8m2!3d-26.9119632!4d-48.6624826",
+        "lat": -26.911954,
+        "lon": -48.662483
+    },
+    {
+        "name": "Agropecuária Reino dos Animais",
+        "url": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Reino+dos+Animais./@-26.9190922,-48.6771683,17z/data=!3m1!4b1!4m5!3m4!1s0x94d8cc7f436fb529:0xbd72c6b7bb564c05!8m2!3d-26.9190922!4d-48.6749742",
+        "lat": -26.919073,
+        "lon": -48.674974
     },
     {
         "name": "Foster Pet Place",
