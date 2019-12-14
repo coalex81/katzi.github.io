@@ -1188,6 +1188,24 @@ data = [
         "lon": -48.682969
     },
     {
+        "name": "O Armazém dos Pets",
+        "url": "https://www.google.com/maps/place/O+Armazem+Dos+Pets/@-26.7616778,-48.6865924,17z/data=!3m1!4b1!4m5!3m4!1s0x94d8d5940bd9bf15:0x9bbe0d1dff224c7f!8m2!3d-26.7616778!4d-48.6843983",
+        "lat": -26.761668,
+        "lon": -48.684388
+    },
+    {
+        "name": "Central Pet - Piçarras",
+        "url": "https://www.google.com/maps/place/Central+Pet+Pi%C3%A7arras/@-26.7651869,-48.6846048,15z/data=!4m8!1m2!2m1!1scentral+pet+pi%C3%A7arras!3m4!1s0x94d8d47eb1184cbb:0x4423dd9048fe9d9c!8m2!3d-26.7605923!4d-48.6741605",
+        "lat": -26.760397,
+        "lon": -48.674112
+    },
+    {
+        "name": "Clube de Mascotes",
+        "url": "https://www.google.com/maps/place/Clube+de+Mascotes+Cl%C3%ADnica+Veterin%C3%A1ria+Pet+Shop/@-26.774529,-48.6619218,17z/data=!3m1!4b1!4m5!3m4!1s0x94d8d35bb96fbc51:0x59c13640da338613!8m2!3d-26.774529!4d-48.6597277",
+        "lat": -26.774510,
+        "lon": -48.659728
+    },
+    {
         "name": "Pet Shop Miau",
         "url": "https://www.google.com/maps/place/Pet+Shop+Miau/@-26.9013842,-48.679905,17z/data=!3m1!4b1!4m5!3m4!1s0x94d8cc5fdff8336d:0x4eb291b19320dde2!8m2!3d-26.901389!4d-48.6777109",
         "lat": -26.901351,
