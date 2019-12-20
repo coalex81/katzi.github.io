@@ -564,6 +564,18 @@ data = [
         "lon": -49.368607
     },
     {
+        "name": "Ateliê e Estética Animal Mimy",
+        "url": "https://www.google.com/maps/place/R.+Manoel+Ribas,+1074+-+Centro,+Arauc%C3%A1ria+-+PR,+83702-035/@-25.5878886,-49.3921446,17z/data=!3m1!4b1!4m5!3m4!1s0x94dd023f58ff6517:0x8071f4247fc6b0f7!8m2!3d-25.5878886!4d-49.3899505",
+        "lat": -25.587869,
+        "lon": -49.389940
+    },
+    {
+        "name": "Nutrisul",
+        "url": "https://www.google.com/maps/place/Nutrisul+Agropecu%C3%A1ria/@-25.583418,-49.4033412,17z/data=!3m1!4b1!4m5!3m4!1s0x94dd03c6853d09e1:0xbdf9855b2cb56515!8m2!3d-25.583418!4d-49.4011471",
+        "lat": -25.583399,
+        "lon": -49.401136
+    },
+    {
         "name": "Casa do Agricultor",
         "url": "https://www.google.com/maps/place/Casa+do+Agr%C3%ADcultor/@-26.0274063,-48.8567866,17z/data=!3m1!4b1!4m5!3m4!1s0x94dc04ec7494dfd9:0x21bc1eb37d0ee24f!8m2!3d-26.0274063!4d-48.8545925",
         "lat": -26.027397,
