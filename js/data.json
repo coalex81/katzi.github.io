@@ -114,10 +114,10 @@ data = [
         "lon": -49.302533
     },
     {
-        "name": "Chris Cat Sitter",
-        "url": "#",
-        "lat": -25.383775,
-        "lon": -49.294465
+        "name": "El Perro Pet",
+        "url": "https://www.google.com/maps/place/El+Perro+Pet/@-25.4309202,-49.2957021,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce3cc75be886d:0xe5674077a2d5c0a7!8m2!3d-25.4309202!4d-49.293508",
+        "lat": -25.430910,
+        "lon": -49.293497
     },
     {
         "name": "Turma do Banho",
