@@ -1289,4 +1289,10 @@ data = [
         "lat": -27.212941,
         "lon": -49.635874
     },
+    {
+        "name": "Disk Ração Totó",
+        "url": "https://www.google.com/maps/place/R.+Cel.+Albino,+1124+-+S%C3%A3o+Judas,+Pres.+Prudente+-+SP,+19025-170/@-22.106228,-51.3940095,17z/data=!3m1!4b1!4m5!3m4!1s0x9493f42da6243bb7:0x2494fcbd7330fb31!8m2!3d-22.106228!4d-51.3918154",
+        "lat": -22.106208,
+        "lon": -51.391794
+    },
 ]
