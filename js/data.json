@@ -1098,10 +1098,16 @@ data = [
         "lon": -48.828589
     },
     {
-        "name": "Agropet Pet & Cia",
-        "url": "https://www.google.com/maps/place/Agropet+Pet+%26+Cia/@-26.3229018,-48.8189515,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb16c5dd1cd81:0x727c54d32433e3b5!8m2!3d-26.3229018!4d-48.8167574",
+        "name": "Agro Wilke",
+        "url": "https://www.google.com/maps/place/Agro+Wilke/@-26.3227965,-48.8170635,18.37z/data=!4m13!1m7!3m6!1s0x94deb16c5dd1cd9b:0xdd1de356a234245!2sR.+F%C3%A1tima,+2158+-+F%C3%A1tima,+Joinville+-+SC,+89229-101!3b1!8m2!3d-26.3228989!4d-48.8167745!3m4!1s0x94deb16c5dd1cd81:0x727c54d32433e3b5!8m2!3d-26.3229018!4d-48.8167574",
         "lat": -26.322899,
         "lon": -48.816764
+    },
+    {
+        "name": "Agro Wilke",
+        "url": "https://www.google.com/maps/place/Av.+Kurt+Meinert,+278+-+Paranaguamirim,+Joinville+-+SC,+89231-700/@-26.3459195,-48.7905936,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb40f758f1365:0x685131f7372f0969!8m2!3d-26.3459195!4d-48.7883995",
+        "lat": -26.345910,
+        "lon": -48.788389
     },
     {
         "name": "Pet Shop Neves",
