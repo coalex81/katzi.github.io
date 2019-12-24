@@ -1098,6 +1098,30 @@ data = [
         "lon": -48.828589
     },
     {
+        "name": "Clín. Vet. Casa de Cachorro",
+        "url": "https://www.google.com/maps/place/Clinica+Veterin%C3%A1ria+Casa+de+Cachorro/@-26.311386,-48.8577131,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb0686bb2e183:0xca70eb03dab48696!8m2!3d-26.311386!4d-48.855519",
+        "lat": -26.311386,
+        "lon": -48.855508
+    },
+    {
+        "name": "Centro de Estética Canina Dog Hair",
+        "url": "https://www.google.com/maps/place/Centro+de+Est%C3%A9tica+Canina+Dog+Hair/@-26.325405,-48.8351271,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb11b31bb7761:0xe370578f4442770a!8m2!3d-26.325405!4d-48.832933",
+        "lat": -26.325395,
+        "lon": -48.832912
+    },
+    {
+        "name": "Agropecuária Kairós",
+        "url": "https://www.google.com/maps/place/R.+Mario+Avancine,+10+-+Adhemar+Garcia,+Joinville+-+SC/@-26.3246279,-48.8084288,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb16760ffee77:0x23a2161464bcb1da!8m2!3d-26.3246279!4d-48.8062347",
+        "lat": -26.324609,
+        "lon": -48.806224
+    },
+    {
+        "name": "Agropecuária Campo Erê",
+        "url": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Campo+Er%C3%AA/@-26.3363314,-48.8388013,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb121d0a90beb:0x8e6073a88bd49b9b!8m2!3d-26.3363314!4d-48.8366072",
+        "lat": -26.336303,
+        "lon": -48.836596
+    },
+    {
         "name": "Agro Wilke",
         "url": "https://www.google.com/maps/place/Agro+Wilke/@-26.3227965,-48.8170635,18.37z/data=!4m13!1m7!3m6!1s0x94deb16c5dd1cd9b:0xdd1de356a234245!2sR.+F%C3%A1tima,+2158+-+F%C3%A1tima,+Joinville+-+SC,+89229-101!3b1!8m2!3d-26.3228989!4d-48.8167745!3m4!1s0x94deb16c5dd1cd81:0x727c54d32433e3b5!8m2!3d-26.3229018!4d-48.8167574",
         "lat": -26.322899,
