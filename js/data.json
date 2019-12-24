@@ -1122,6 +1122,30 @@ data = [
         "lon": -48.872923
     },
     {
+        "name": "Master Pet Shop",
+        "url": "https://www.google.com/maps/place/Master+Pet+Shop/@-26.274316,-48.870475,17z/data=!3m1!4b1!4m5!3m4!1s0x94deafee76b873a3:0x1f7c01970abd59ad!8m2!3d-26.274316!4d-48.8682809",
+        "lat": -26.274306,
+        "lon": -48.868270
+    },
+    {
+        "name": "4Patas7Vidas",
+        "url": "https://www.google.com/maps/place/4patas7vidas+-+Pet+Shop+-+Ra%C3%A7%C3%B5es/@-26.2696528,-48.847619,17z/data=!3m1!4b1!4m5!3m4!1s0x94dea533de56151d:0x24fd83eb0230559b!8m2!3d-26.2696528!4d-48.8454249",
+        "lat": -26.269634,
+        "lon": -48.845414
+    },
+    {
+        "name": "Santa Catarina Pet Shop",
+        "url": "https://www.google.com/maps/place/Santa+Catarina+Pet+Shop/@-26.3260248,-48.8477033,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb18424b131c1:0xf93787e0c436336a!8m2!3d-26.3260248!4d-48.8455092",
+        "lat": -26.326015,
+        "lon": -48.845498
+    },
+    {
+        "name": "Agropet Neny",
+        "url": "https://www.google.com/maps/place/R.+Laura+Auler,+697+-+Profipo,+Joinville+-+SC,+89233-230/@-26.3670946,-48.8459234,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb728a338b257:0x3c9f613fea515557!8m2!3d-26.3670946!4d-48.8437293",
+        "lat": -26.367085,
+        "lon": -48.843719
+    },
+    {
         "name": "Pró Gato Pró Cão Clínica Veterinária",
         "url": "https://www.google.com/maps/place/Pr%C3%B3+Gato+Pr%C3%B3+C%C3%A3o+Cl%C3%ADnica+Veterin%C3%A1ria/@-26.2818047,-48.846509,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb1fc13f2496f:0x701b041ee9466114!8m2!3d-26.2818047!4d-48.8443149",
         "lat": -26.281785,
