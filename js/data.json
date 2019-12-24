@@ -1110,6 +1110,18 @@ data = [
         "lon": -48.788389
     },
     {
+        "name": "Clín. Vet. Cão de Guarda",
+        "url": "https://www.google.com/maps/place/Cl%C3%ADnica+veterin%C3%A1ria+C%C3%A3o+de+Guarda/@-26.237961,-48.8126151,17z/data=!3m1!4b1!4m5!3m4!1s0x94deae653dae6cdb:0x7b1fcc6d9fa39c8e!8m2!3d-26.237961!4d-48.810421",
+        "lat": -26.237961,
+        "lon": -48.810410
+    },
+    {
+        "name": "Agro Pet Shop Vila Nova",
+        "url": "https://www.google.com/maps/place/Agro+Pet+Shop+Vila+Nova/@-26.2872251,-48.9069811,17z/data=!3m1!4b1!4m5!3m4!1s0x94dea53950de9ed9:0x9a86c164a7dad11a!8m2!3d-26.2872251!4d-48.904787",
+        "lat": -26.287215,
+        "lon": -48.904766
+    },
+    {
         "name": "Pet Shop Neves",
         "url": "https://www.google.com/maps/place/Pet+Shop+Neves/@-26.2931322,-48.8632191,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb10058f38723:0xd4965841e8b8b95f!8m2!3d-26.293137!4d-48.861025",
         "lat": -26.293132,
