@@ -1092,6 +1092,36 @@ data = [
         "lon": -48.855134
     },
     {
+        "name": "Agropecuária Morais",
+        "url": "https://www.google.com/maps/place/R.+Ant%C3%B4nio+Jorge+Cecyn,+725+-+Aventureiro,+Joinville+-+SC,+89226-260/@-26.2425413,-48.8152368,17z/data=!3m1!4b1!4m5!3m4!1s0x94deae6f1e9f9905:0xb42df45cd74c6723!8m2!3d-26.2425413!4d-48.8130427",
+        "lat": -26.242532,
+        "lon": -48.813043
+    },
+    {
+        "name": "Agroshop Fluffy Dog",
+        "url": "https://www.google.com/maps/place/Agroshop+Fluffly+Dog/@-26.2798786,-48.816294,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb1ef56e69341:0x2651430162c76c1b!8m2!3d-26.2798786!4d-48.8140999",
+        "lat": -26.279859,
+        "lon": -48.814089
+    },
+    {
+        "name": "Agropecuária Cercal Pet",
+        "url": "https://www.google.com/maps/place/R.+Iriri%C3%BA,+591+-+Sagua%C3%A7u,+Joinville+-+SC,+89221-301/@-26.2794929,-48.8390853,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb1d5a5d88249:0x1e61a70e2081d2e!8m2!3d-26.2794929!4d-48.8368912",
+        "lat": -26.279464,
+        "lon": -48.836880
+    },
+    {
+        "name": "Petlândia - Giassi",
+        "url": "https://www.google.com/maps/place/R.+Dr.+Jo%C3%A3o+Colin,+762+-+Centro,+Joinville+-+SC,+89201-300/@-26.2939288,-48.8493231,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb03103ac44f3:0x1a88963024f149f6!8m2!3d-26.2939288!4d-48.847129",
+        "lat": -26.293900,
+        "lon": -48.847118
+    },
+    {
+        "name": "Pet Joy 2",
+        "url": "https://www.google.com/maps/place/R.+Benjamin+Constant,+2815+-+Gl%C3%B3ria,+Joinville+-+SC,+89217-002/@-26.2848896,-48.8751175,17z/data=!3m1!4b1!4m5!3m4!1s0x94deaffb84e24657:0xe7e623d696693121!8m2!3d-26.2848896!4d-48.8729234",
+        "lat": -26.284870,
+        "lon": -48.872923
+    },
+    {
         "name": "Pró Gato Pró Cão Clínica Veterinária",
         "url": "https://www.google.com/maps/place/Pr%C3%B3+Gato+Pr%C3%B3+C%C3%A3o+Cl%C3%ADnica+Veterin%C3%A1ria/@-26.2818047,-48.846509,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb1fc13f2496f:0x701b041ee9466114!8m2!3d-26.2818047!4d-48.8443149",
         "lat": -26.281785,
