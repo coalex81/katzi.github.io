@@ -1146,6 +1146,24 @@ data = [
         "lon": -48.843719
     },
     {
+        "name": "ArcPets Pet Shop",
+        "url": "https://www.google.com/maps/place/ArcPets+Pet+Shop+e+Agropecu%C3%A1ria/@-26.335248,-48.8495786,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb0e67eb8950d:0x8d7f20e9f5eacf9c!8m2!3d-26.335248!4d-48.8473845",
+        "lat": -26.335229,
+        "lon": -48.847374
+    },
+    {
+        "name": "Bepler Pet",
+        "url": "https://www.google.com/maps/place/Bepler+Pet/@-26.2648259,-48.8844959,17z/data=!3m1!4b1!4m5!3m4!1s0x94dea562d6defdcd:0xf581f9fdfcf5f2e0!8m2!3d-26.2648259!4d-48.8823018",
+        "lat": -26.264807,
+        "lon": -48.882302
+    },
+    {
+        "name": "Estudio Estética Animal",
+        "url": "https://www.google.com/maps/place/R.+Vice-Prefeito+Lu%C3%ADs+Carlos+Garc%C3%ADa,+629+-+Costa+e+Silva,+Joinville+-+SC,+89219-370/@-26.268575,-48.8676813,17z/data=!3m1!4b1!4m5!3m4!1s0x94deafecae06005d:0x933ce5b8bcd0b2a3!8m2!3d-26.268575!4d-48.8654872",
+        "lat": -26.268565,
+        "lon": -48.865487
+    },
+    {
         "name": "Pró Gato Pró Cão Clínica Veterinária",
         "url": "https://www.google.com/maps/place/Pr%C3%B3+Gato+Pr%C3%B3+C%C3%A3o+Cl%C3%ADnica+Veterin%C3%A1ria/@-26.2818047,-48.846509,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb1fc13f2496f:0x701b041ee9466114!8m2!3d-26.2818047!4d-48.8443149",
         "lat": -26.281785,
