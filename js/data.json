@@ -852,6 +852,36 @@ data = [
         "lon": -49.121644
     },
     {
+        "name": "Agropecuária É o Bicho",
+        "url": "https://www.google.com/maps/place/R.+Alberto+Santos+Dumont,+360+-+Vila+Lalau,+Jaragu%C3%A1+do+Sul+-+SC,+89256-250/@-26.4826287,-49.0621261,17z/data=!3m1!4b1!4m5!3m4!1s0x94de956d72a15fab:0x4ccf537b0c241b1c!8m2!3d-26.4826287!4d-49.059932",
+        "lat": -26.482609,
+        "lon": -49.059921
+    },
+    {
+        "name": "Espaço Baby Dolly",
+        "url": "https://www.google.com/maps/place/Espa%C3%A7o+Baby+Dolly/@-26.482372,-49.0740656,17z/data=!3m1!4b1!4m5!3m4!1s0x94de950f7ffcbbcb:0x7afc9ffc03cad024!8m2!3d-26.482372!4d-49.0718715",
+        "lat": -26.482353,
+        "lon": -49.071861
+    },
+    {
+        "name": "Paraíso Canino",
+        "url": "https://www.google.com/maps/place/R.+Jos%C3%A9+Emmendoerfer,+202+-+Nova+Bras%C3%ADlia,+Jaragu%C3%A1+do+Sul+-+SC,+89253-000/@-26.480386,-49.0940511,17z/data=!3m1!4b1!4m5!3m4!1s0x94de9459d5680a2d:0xa57bf4f740fb80b3!8m2!3d-26.480386!4d-49.091857",
+        "lat": -26.480376,
+        "lon": -49.091846
+    },
+    {
+        "name": "Bea Pet Center",
+        "url": "https://www.google.com/maps/place/Bea+Pet+Center/@-26.513233,-49.1200871,17z/data=!3m1!4b1!4m5!3m4!1s0x94de94a19a7ec44f:0xe32ccc89aad62bc7!8m2!3d-26.513233!4d-49.117893",
+        "lat": -26.513223,
+        "lon": -49.117893
+    },
+    {
+        "name": "Pet Mel Pet Shop",
+        "url": "https://www.google.com/maps/place/Pet+Mel+Pet+Shop/@-26.4734057,-49.0023264,17z/data=!3m1!4b1!4m5!3m4!1s0x94debf75b80c9c71:0x17cba07f4f833d7f!8m2!3d-26.4734057!4d-49.0001323",
+        "lat": -26.473377,
+        "lon": -49.000132
+    },
+    {
         "name": "4 Patas Estética Animal",
         "url": "https://www.google.com/maps/place/4+Patas+Est%C3%A9tica+Animal/@-26.3062001,-48.8515607,17z/data=!3m1!4b1!4m5!3m4!1s0x94deb048ac4f42e3:0x6888fb1bcd2b8cf8!8m2!3d-26.3062001!4d-48.8493666",
         "lat": -26.306190,
