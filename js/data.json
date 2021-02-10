@@ -48,6 +48,12 @@ data = [
         "lon": -49.342678
     },
     {
+        "name": "Pet Shop do Túlio",
+        "url": "https://www.google.com/maps/place/T%C3%BAlio+Pet+Shop/@-25.401883,-49.3289217,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce1a7c9cb799d:0x50f5d016b75f6662!8m2!3d-25.401883!4d-49.326733",
+        "lat": -25.401883,
+        "lon": -49.326754
+    },
+    {
         "name": "Outpets",
         "url": "https://www.google.com/maps/place/Outpets/@-25.4393927,-49.2367694,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce507c1752621:0xe6ede08c910735f7!8m2!3d-25.4393976!4d-49.2345753",
         "lat": -25.439396,
